@@ -1,0 +1,1001 @@
+Customer_ID,Name,Gender,Age,City,Signup_Date,Last_Purchase_Date,Purchase_Amount,Feedback_Score,Email,Phone_Number,Country
+CUST1679,Amit Kumar,FEMALE,,mumbai,2021-06-11,2024-08-12,,3.0,invalid_email,,InDia
+CUST1076,Arjun Singh,m,,hyderabad,2020-01-06,2024-02-16,,1.0,test@domain.com,6141085641.0,india
+CUST1385,Arjun Singh,FEMALE,33,Delhi,2022-06-11,2023-12-06,13157.5,4.0,user@example.com,8640838285.0,InDia
+CUST1286,Simran Kaur,M,30 years,hyderabad,2020-06-10,2023-05-31,5773.74,2.0,user@example.com,8143925121.0,India
+CUST1183,Amit Kumar,FEMALE,20,Hyderabad,2022-09-30,2021-11-07,17527.83,2.0,user@example.com,,india
+CUST1855,Rohit Mehta,FEMALE,,delhi,2022-06-23,2024-07-07,13458.61,3.0,user@example.com,6362216815.0,India
+CUST1898,Vikas Yadav,m,35,Chennai,2024-01-16,2021-10-13,2031.61,4.0,invalid_email,,India
+CUST1681,Rahul Sharma,M,30 years,Delhi,2020-04-06,2024-08-13,,4.0,user@example.com,8047460109.0,India
+CUST1773,Kavya Nair,m,30 years,mumbai,2021-04-24,2021-01-20,35118.14,2.0,test@domain.com,8588352668.0,InDia
+CUST1079,Amit Kumar,MALE,20,Hyderabad,2020-01-02,2021-12-12,,4.0,test@domain.com,6332630385.0,InDia
+CUST1817,Simran Kaur,M,,,2022-05-10,2021-01-01,,4.0,test@domain.com,,India
+CUST1881,Neha Verma,F,30 years,Kolkata,2021-10-03,2025-02-09,35834.89,1.0,invalid_email,9172944153.0,India
+CUST1484,Rahul Sharma,MALE,,Delhi,2021-11-20,2021-04-02,23604.14,,user@example.com,,India
+CUST1800,Neha Verma,f,53,Hyderabad,2023-03-04,2024-10-13,27587.85,,test@domain.com,,india
+CUST1654,Rahul Sharma,FEMALE,30 years,Kolkata,2022-09-07,2023-01-18,35289.57,2.0,test@domain.com,8598380037.0,India
+CUST1138,Priya Singh,FEMALE,27,Delhi,2020-02-26,2021-10-27,40440.26,4.0,test@domain.com,,India
+CUST1535,Arjun Singh,M,,hyderabad,2022-08-08,2021-08-04,20746.52,3.0,invalid_email,,InDia
+CUST1828,Anjali Gupta,F,30 years,CHENNAI,2023-02-06,2024-02-25,10958.95,,user@example.com,,InDia
+CUST1798,Neha Verma,FEMALE,43,mumbai,2020-04-06,2023-09-06,32985.54,5.0,invalid_email,,india
+CUST1257,Arjun Singh,f,54,Mumbai,2021-10-16,2021-05-14,,,user@example.com,,India
+CUST1693,Anjali Gupta,,30 years,hyderabad,2021-11-19,2021-05-05,18380.72,1.0,user@example.com,8759494262.0,india
+CUST1466,Priya Singh,F,27,,2021-09-13,2021-03-07,,4.0,test@domain.com,9399983163.0,India
+CUST1359,Rahul Sharma,,,CHENNAI,2023-02-06,2021-02-19,,5.0,invalid_email,,india
+CUST1655,Vikas Yadav,M,55,CHENNAI,2024-02-05,2021-09-18,6802.2,1.0,test@domain.com,,india
+CUST1550,Kavya Nair,M,30 years,Chennai,2020-04-26,2022-12-31,,,user@example.com,6433227384.0,india
+CUST1375,Priya Singh,FEMALE,30,mumbai,2021-04-08,2023-06-28,,2.0,user@example.com,,india
+CUST1844,Priya Singh,M,,delhi,2024-01-14,2021-02-06,,5.0,user@example.com,,InDia
+CUST1192,Vikas Yadav,FEMALE,30 years,mumbai,2022-10-09,2021-04-20,,4.0,user@example.com,7020631504.0,India
+CUST1918,Neha Verma,FEMALE,19,CHENNAI,2020-09-14,2024-09-10,2374.71,3.0,invalid_email,,india
+CUST1030,Priya Singh,F,,hyderabad,2022-08-09,2024-02-22,,1.0,test@domain.com,,india
+CUST1103,Neha Verma,MALE,,Delhi,2022-02-25,2022-03-01,8077.43,4.0,test@domain.com,,InDia
+CUST1860,Arjun Singh,M,30 years,Hyderabad,2023-12-10,2022-08-08,9225.45,1.0,invalid_email,6865744508.0,India
+CUST1994,Vikas Yadav,M,,Chennai,2022-10-06,2021-12-11,,,invalid_email,,InDia
+CUST1417,Amit Kumar,m,,,2020-07-10,2021-03-07,,,test@domain.com,,India
+CUST1790,Rahul Sharma,M,,delhi,2021-03-06,2021-02-27,,2.0,invalid_email,,India
+CUST1007,Amit Kumar,m,60,delhi,2021-09-14,2022-08-02,9228.69,2.0,invalid_email,,india
+CUST1852,Simran Kaur,f,30,hyderabad,2021-08-23,2023-03-24,23939.52,2.0,test@domain.com,,india
+CUST1721,Amit Kumar,MALE,,Delhi,2022-05-24,2021-05-15,12105.85,,test@domain.com,6304481272.0,india
+CUST1523,Rahul Sharma,F,30 years,Mumbai,2023-02-12,2023-06-10,41219.9,1.0,user@example.com,9331421845.0,india
+CUST1565,Anjali Gupta,M,46,delhi,2020-09-05,2022-10-30,,2.0,test@domain.com,6743687668.0,India
+CUST1214,Anjali Gupta,F,30 years,mumbai,2022-04-28,2024-04-02,29569.57,,invalid_email,7271788153.0,india
+CUST1445,Simran Kaur,f,26,CHENNAI,2020-06-03,2023-04-24,,2.0,test@domain.com,,india
+CUST1225,Priya Singh,,24,Hyderabad,2020-04-13,2024-07-04,20703.4,3.0,user@example.com,6813805595.0,India
+CUST1393,Neha Verma,FEMALE,,Chennai,2020-09-15,2022-12-07,,,user@example.com,,India
+CUST1399,Amit Kumar,MALE,,,2023-08-17,2021-07-10,,,user@example.com,7984193396.0,InDia
+CUST1351,Rahul Sharma,F,30 years,Hyderabad,2021-08-21,2023-05-16,35271.43,4.0,test@domain.com,,India
+CUST1362,Rohit Mehta,F,30 years,mumbai,2022-08-13,2023-11-16,,3.0,test@domain.com,,InDia
+CUST1737,Rohit Mehta,M,30 years,Kolkata,2023-07-17,2023-11-08,32123.29,5.0,user@example.com,8710948412.0,InDia
+CUST1427,Amit Kumar,f,30 years,mumbai,2023-03-19,2021-01-20,45601.18,,test@domain.com,6958594102.0,india
+CUST1153,Simran Kaur,,30 years,,2020-01-07,2022-04-22,,1.0,invalid_email,9043728523.0,InDia
+CUST1172,Amit Kumar,f,60,,2023-12-15,2022-10-26,,1.0,test@domain.com,,India
+CUST1441,Simran Kaur,MALE,,CHENNAI,2022-08-11,2023-04-10,,,test@domain.com,9535173461.0,India
+CUST1389,Arjun Singh,M,,Hyderabad,2023-10-20,2023-06-03,,5.0,user@example.com,6234203219.0,india
+CUST1659,Neha Verma,FEMALE,,mumbai,2022-02-12,2023-09-25,,1.0,user@example.com,6045690862.0,India
+CUST1085,Vikas Yadav,M,,,2023-07-22,2025-01-25,,3.0,invalid_email,,India
+CUST1860,Neha Verma,MALE,,mumbai,2023-11-13,2022-11-26,,4.0,user@example.com,,india
+CUST1173,Priya Singh,FEMALE,,Mumbai,2023-02-09,2021-11-22,19053.99,2.0,test@domain.com,,India
+CUST1642,Vikas Yadav,m,43,Delhi,2022-02-04,2022-06-12,26393.54,2.0,test@domain.com,,india
+CUST1853,Anjali Gupta,MALE,41,,2023-04-08,2021-10-13,23567.84,1.0,test@domain.com,6608377719.0,India
+CUST1159,Priya Singh,,28,delhi,2022-06-28,2022-01-05,,5.0,invalid_email,6967717192.0,InDia
+CUST1862,Amit Kumar,M,54,Chennai,2021-02-22,2023-11-30,26727.64,2.0,invalid_email,,India
+CUST1849,Neha Verma,MALE,,Delhi,2023-03-23,2022-03-27,,1.0,invalid_email,8839759030.0,india
+CUST1263,Anjali Gupta,m,30 years,Kolkata,2022-03-24,2021-02-03,20303.26,3.0,user@example.com,9674755518.0,India
+CUST1975,Rahul Sharma,MALE,,hyderabad,2022-10-30,2024-07-02,37830.16,1.0,invalid_email,,india
+CUST1961,Vikas Yadav,,30 years,Chennai,2021-04-26,2021-05-06,,2.0,test@domain.com,9826600687.0,India
+CUST1997,Neha Verma,FEMALE,30 years,Hyderabad,2022-12-09,2024-09-09,,,invalid_email,,india
+CUST1412,Kavya Nair,FEMALE,32,Chennai,2023-07-22,2022-09-20,37765.22,3.0,test@domain.com,,InDia
+CUST1623,Rohit Mehta,M,23,Delhi,2020-12-03,2024-09-18,,3.0,test@domain.com,,InDia
+CUST1787,Rahul Sharma,FEMALE,44,Mumbai,2021-07-23,2022-02-21,13214.79,1.0,user@example.com,6320145972.0,InDia
+CUST1783,Priya Singh,,,Delhi,2022-02-07,2022-05-31,41575.5,,invalid_email,6366071491.0,India
+CUST1851,Amit Kumar,F,,CHENNAI,2022-02-17,2023-06-17,,4.0,user@example.com,6874164371.0,India
+CUST1141,Rohit Mehta,M,,mumbai,2020-09-18,2023-04-24,47282.25,5.0,invalid_email,9436691903.0,InDia
+CUST1952,Kavya Nair,m,24,mumbai,2022-10-18,2024-08-18,,4.0,invalid_email,6122903574.0,InDia
+CUST1134,Simran Kaur,m,,Hyderabad,2022-02-06,2023-05-13,,5.0,invalid_email,,india
+CUST1954,Vikas Yadav,m,30 years,hyderabad,2022-01-06,2023-01-26,1225.42,2.0,invalid_email,9659120449.0,InDia
+CUST1544,Neha Verma,f,41,Kolkata,2021-11-15,2022-09-11,42481.64,,invalid_email,,india
+CUST1236,Rohit Mehta,MALE,30 years,mumbai,2020-09-11,2025-01-15,,1.0,user@example.com,6143589267.0,India
+CUST1357,Simran Kaur,F,30 years,Chennai,2021-10-18,2022-10-07,14394.78,,invalid_email,9946282060.0,InDia
+CUST1956,Priya Singh,F,30 years,mumbai,2023-04-09,2021-05-11,,4.0,test@domain.com,,india
+CUST1372,Rohit Mehta,m,27,Mumbai,2023-12-25,2021-09-04,16423.91,2.0,user@example.com,,India
+CUST1533,Neha Verma,F,,Kolkata,2021-02-26,2023-10-24,,3.0,invalid_email,8124926975.0,india
+CUST1823,Kavya Nair,M,30 years,Kolkata,2020-07-09,2024-08-10,14083.15,,user@example.com,,InDia
+CUST1782,Priya Singh,f,30 years,CHENNAI,2021-07-22,2023-06-06,25700.87,3.0,user@example.com,9469573001.0,India
+CUST1559,Simran Kaur,FEMALE,20,mumbai,2023-11-23,2021-10-12,,5.0,invalid_email,,InDia
+CUST1141,Rahul Sharma,M,30 years,Hyderabad,2021-11-05,2024-06-01,16120.7,,test@domain.com,,India
+CUST1611,Vikas Yadav,,30 years,,2020-05-22,2024-07-22,22754.22,4.0,invalid_email,,InDia
+CUST1331,Amit Kumar,FEMALE,30 years,mumbai,2023-04-07,2021-12-23,,2.0,user@example.com,9489971919.0,india
+CUST1420,Kavya Nair,,,Delhi,2022-02-25,2022-11-13,20207.77,,test@domain.com,,India
+CUST1805,Vikas Yadav,F,30 years,Kolkata,2020-09-14,2023-09-07,,5.0,invalid_email,9368712053.0,India
+CUST1286,Neha Verma,m,30 years,Mumbai,2020-10-16,2023-05-24,,4.0,user@example.com,,InDia
+CUST1526,Priya Singh,MALE,53,mumbai,2022-05-03,2021-11-06,,4.0,user@example.com,8987296730.0,India
+CUST1347,Priya Singh,m,30 years,delhi,2021-09-23,2022-11-18,,,user@example.com,8996563068.0,india
+CUST1287,Arjun Singh,M,,Delhi,2021-04-29,2024-02-03,,2.0,test@domain.com,9971675137.0,india
+CUST1771,Priya Singh,m,59,mumbai,2021-01-17,2022-12-17,23316.73,1.0,test@domain.com,9605812685.0,InDia
+CUST1035,Priya Singh,f,30 years,mumbai,2020-01-06,2022-11-13,,3.0,test@domain.com,8680039695.0,india
+CUST1499,Amit Kumar,,,Hyderabad,2020-04-09,2021-01-16,3358.14,2.0,invalid_email,6536033407.0,InDia
+CUST1285,Vikas Yadav,FEMALE,30 years,hyderabad,2023-12-01,2022-06-11,,2.0,test@domain.com,,india
+CUST1608,Arjun Singh,M,,Hyderabad,2022-03-01,2021-09-07,32931.84,3.0,test@domain.com,,india
+CUST1126,Simran Kaur,M,33,,2023-02-28,2023-10-20,,4.0,user@example.com,,InDia
+CUST1268,Amit Kumar,FEMALE,,Kolkata,2023-04-29,2023-03-15,,4.0,test@domain.com,,India
+CUST1682,Rohit Mehta,FEMALE,,,2020-06-09,2024-07-17,40317.34,,invalid_email,,india
+CUST1327,Arjun Singh,M,18,mumbai,2023-11-23,2021-12-27,,4.0,invalid_email,,InDia
+CUST1515,Simran Kaur,m,43,Delhi,2023-04-05,2021-06-05,38923.29,1.0,test@domain.com,8650596720.0,InDia
+CUST1369,Vikas Yadav,F,30 years,Kolkata,2020-01-01,2022-06-09,37891.48,3.0,user@example.com,,india
+CUST1832,Arjun Singh,F,,Delhi,2024-01-27,2021-11-04,,3.0,user@example.com,8075547646.0,India
+CUST1250,Anjali Gupta,m,,delhi,2023-07-05,2022-11-02,,1.0,test@domain.com,,InDia
+CUST1909,Vikas Yadav,F,42,Mumbai,2023-02-19,2021-02-20,,5.0,user@example.com,,India
+CUST1503,Anjali Gupta,F,30 years,mumbai,2024-01-04,2022-09-15,43597.18,5.0,test@domain.com,,india
+CUST1259,Rohit Mehta,M,30 years,Delhi,2022-01-07,2021-10-19,1069.54,1.0,test@domain.com,,India
+CUST1638,Arjun Singh,MALE,30 years,mumbai,2023-02-11,2024-04-30,,,invalid_email,,India
+CUST1629,Priya Singh,m,,delhi,2023-12-23,2022-11-19,21746.78,,invalid_email,9588806492.0,india
+CUST1653,Anjali Gupta,,30 years,Kolkata,2020-11-11,2024-12-29,,3.0,test@domain.com,9199399840.0,india
+CUST1952,Arjun Singh,f,,CHENNAI,2022-07-27,2022-11-27,42440.71,2.0,user@example.com,,India
+CUST1303,Neha Verma,F,,,2020-05-09,2024-06-12,,5.0,test@domain.com,,India
+CUST1029,Anjali Gupta,MALE,30 years,CHENNAI,2022-04-13,2021-02-19,28040.31,4.0,user@example.com,6889955361.0,InDia
+CUST1035,Vikas Yadav,,48,Kolkata,2021-10-08,2023-02-15,,,invalid_email,8771717133.0,india
+CUST1530,Priya Singh,MALE,,Delhi,2021-11-16,2021-02-01,44725.64,5.0,invalid_email,7758559442.0,india
+CUST1022,Amit Kumar,m,30 years,CHENNAI,2022-02-19,2023-11-11,,,test@domain.com,6252459137.0,InDia
+CUST1779,Arjun Singh,F,,Kolkata,2023-03-23,2024-09-13,,5.0,test@domain.com,6634930837.0,India
+CUST1670,Priya Singh,M,,delhi,2023-11-06,2025-01-01,,3.0,test@domain.com,,india
+CUST1390,Amit Kumar,F,,Kolkata,2020-08-13,2023-12-17,35324.23,,test@domain.com,,InDia
+CUST1215,Arjun Singh,m,58,,2022-09-15,2021-09-01,17111.41,2.0,user@example.com,,India
+CUST1480,Amit Kumar,,,Mumbai,2023-10-29,2021-10-19,8955.0,5.0,test@domain.com,6126417315.0,india
+CUST1828,Arjun Singh,FEMALE,21,Mumbai,2021-11-10,2023-07-25,48670.02,5.0,invalid_email,9837693952.0,india
+CUST1684,Kavya Nair,FEMALE,57,hyderabad,2020-06-21,2022-09-27,5670.68,1.0,test@domain.com,,India
+CUST1600,Neha Verma,F,30 years,mumbai,2022-11-10,2024-10-20,33274.22,1.0,test@domain.com,9249580035.0,India
+CUST1874,Anjali Gupta,M,30 years,delhi,2021-09-22,2024-05-24,,4.0,invalid_email,,India
+CUST1972,Arjun Singh,f,,Hyderabad,2020-04-07,2024-11-26,15648.7,,test@domain.com,,India
+CUST1816,Kavya Nair,f,56,Mumbai,2022-01-05,2021-04-30,34062.64,5.0,test@domain.com,,India
+CUST1409,Arjun Singh,F,,,2020-05-16,2023-10-24,36606.27,1.0,test@domain.com,6687601612.0,India
+CUST1633,Priya Singh,MALE,,delhi,2022-11-06,2023-06-29,12721.55,5.0,user@example.com,,India
+CUST1547,Kavya Nair,,,mumbai,2020-06-19,2021-11-22,3183.64,3.0,invalid_email,,India
+CUST1144,Priya Singh,f,30 years,Chennai,2023-06-25,2022-12-25,,1.0,invalid_email,,India
+CUST1268,Rohit Mehta,FEMALE,,Delhi,2023-10-24,2021-07-01,38435.79,2.0,test@domain.com,,India
+CUST1308,Anjali Gupta,F,28,CHENNAI,2020-07-02,2023-04-01,10886.3,2.0,test@domain.com,6956950646.0,India
+CUST1733,Simran Kaur,m,27,,2020-07-27,2024-07-28,,,invalid_email,,InDia
+CUST1784,Simran Kaur,MALE,19,delhi,2022-12-05,2022-11-12,,5.0,invalid_email,,india
+CUST1250,Rohit Mehta,f,,Hyderabad,2023-12-10,2024-07-05,,5.0,user@example.com,6289964558.0,india
+CUST1175,Arjun Singh,M,30 years,hyderabad,2021-06-09,2021-09-06,,4.0,user@example.com,9373125665.0,India
+CUST1668,Kavya Nair,F,,CHENNAI,2023-06-06,2021-07-30,,1.0,invalid_email,8123844024.0,India
+CUST1297,Amit Kumar,f,60,Mumbai,2022-04-22,2024-08-20,,1.0,user@example.com,,india
+CUST1729,Neha Verma,M,,mumbai,2021-02-18,2022-10-30,,4.0,test@domain.com,9364740338.0,InDia
+CUST1926,Priya Singh,M,25,delhi,2023-11-29,2025-01-21,,3.0,invalid_email,,India
+CUST1677,Arjun Singh,f,21,mumbai,2020-12-02,2024-07-20,,4.0,user@example.com,6454122980.0,InDia
+CUST1517,Anjali Gupta,F,30 years,mumbai,2021-05-11,2022-04-08,27683.99,2.0,test@domain.com,9050394595.0,india
+CUST1684,Rahul Sharma,MALE,23,Mumbai,2021-09-28,2024-04-04,,1.0,invalid_email,,InDia
+CUST1998,Amit Kumar,F,30 years,CHENNAI,2022-10-04,2022-12-05,36962.72,4.0,test@domain.com,8096584667.0,InDia
+CUST1949,Priya Singh,F,46,Kolkata,2022-12-12,2024-05-08,,2.0,invalid_email,6254064187.0,India
+CUST1082,Anjali Gupta,f,39,Kolkata,2021-07-26,2024-07-13,39621.81,4.0,user@example.com,6754293494.0,India
+CUST1826,Arjun Singh,F,30 years,Hyderabad,2022-09-30,2024-01-20,25300.3,2.0,test@domain.com,,India
+CUST1186,Neha Verma,f,39,mumbai,2020-09-15,2022-07-29,25023.29,1.0,test@domain.com,,InDia
+CUST1970,Kavya Nair,MALE,51,CHENNAI,2020-10-20,2021-09-30,2503.51,4.0,invalid_email,7525815389.0,India
+CUST1092,Vikas Yadav,f,,mumbai,2023-12-13,2022-09-22,,5.0,user@example.com,,India
+CUST1335,Kavya Nair,F,30 years,Chennai,2021-12-03,2022-02-27,,3.0,test@domain.com,6408665711.0,InDia
+CUST1413,Arjun Singh,MALE,30 years,Kolkata,2022-01-15,2023-10-21,,5.0,user@example.com,,india
+CUST1779,Anjali Gupta,F,,Mumbai,2022-08-28,2022-09-20,25522.37,5.0,user@example.com,,India
+CUST1954,Arjun Singh,f,,Mumbai,2023-04-04,2021-11-16,,,test@domain.com,,India
+CUST1141,Neha Verma,m,47,,2021-08-11,2024-07-22,13403.01,4.0,test@domain.com,9765322778.0,InDia
+CUST1506,Kavya Nair,M,,delhi,2021-03-16,2024-07-28,48540.24,4.0,test@domain.com,9470752221.0,India
+CUST1622,Arjun Singh,FEMALE,51,Hyderabad,2020-06-13,2021-10-05,,,test@domain.com,6953315973.0,InDia
+CUST1459,Simran Kaur,FEMALE,29,Chennai,2021-09-25,2022-12-22,,4.0,invalid_email,,india
+CUST1456,Rohit Mehta,M,,delhi,2021-06-10,2024-04-30,,3.0,invalid_email,6098755389.0,india
+CUST1364,Simran Kaur,FEMALE,30 years,Hyderabad,2023-06-15,2021-03-31,,1.0,test@domain.com,,InDia
+CUST1664,Vikas Yadav,M,30 years,Delhi,2020-01-09,2022-07-19,46573.97,4.0,user@example.com,,india
+CUST1721,Simran Kaur,F,30 years,Mumbai,2024-01-21,2022-02-23,8400.22,1.0,user@example.com,,india
+CUST1907,Rahul Sharma,,,delhi,2020-02-13,2021-02-22,43748.06,4.0,user@example.com,,InDia
+CUST1322,Vikas Yadav,,53,Mumbai,2021-01-15,2022-03-09,3208.79,,invalid_email,9069375446.0,india
+CUST1360,Rohit Mehta,MALE,,Mumbai,2020-06-05,2022-06-06,,,user@example.com,9352245625.0,india
+CUST1687,Simran Kaur,,30 years,Kolkata,2021-09-20,2023-09-16,,3.0,invalid_email,8137368704.0,InDia
+CUST1269,Priya Singh,F,,,2023-05-22,2022-07-10,,,invalid_email,,india
+CUST1965,Priya Singh,m,30 years,Kolkata,2023-02-25,2021-10-05,33522.15,5.0,user@example.com,,InDia
+CUST1588,Arjun Singh,m,44,CHENNAI,2021-02-27,2022-06-05,,2.0,user@example.com,6786735872.0,India
+CUST1221,Anjali Gupta,M,,Kolkata,2024-01-22,2021-01-24,44877.6,3.0,user@example.com,,india
+CUST1497,Rohit Mehta,M,30 years,mumbai,2022-07-14,2021-08-23,36417.91,1.0,user@example.com,,india
+CUST1271,Priya Singh,m,30 years,Hyderabad,2023-03-02,2022-03-19,5734.32,5.0,test@domain.com,,India
+CUST1218,Kavya Nair,f,30 years,mumbai,2020-10-12,2022-01-28,,,user@example.com,,India
+CUST1159,Anjali Gupta,,,Hyderabad,2020-09-03,2022-06-20,44421.76,2.0,test@domain.com,,InDia
+CUST1260,Simran Kaur,M,,,2020-05-16,2024-05-13,21295.43,,invalid_email,,india
+CUST1683,Amit Kumar,m,30 years,CHENNAI,2022-11-03,2022-02-24,,,invalid_email,,India
+CUST1933,Vikas Yadav,M,,Delhi,2021-04-04,2022-10-25,5830.58,3.0,user@example.com,6042956330.0,InDia
+CUST1730,Vikas Yadav,M,30 years,mumbai,2023-06-09,2023-11-13,,2.0,user@example.com,9364397380.0,InDia
+CUST1788,Rahul Sharma,MALE,,Chennai,2023-12-27,2023-08-03,10318.11,4.0,invalid_email,,InDia
+CUST1964,Simran Kaur,m,,CHENNAI,2022-05-20,2023-09-12,19517.45,,test@domain.com,,InDia
+CUST1495,Anjali Gupta,,30 years,Kolkata,2023-09-14,2023-09-07,,5.0,invalid_email,,india
+CUST1187,Kavya Nair,M,30 years,delhi,2021-05-25,2024-02-03,,,user@example.com,8936506621.0,InDia
+CUST1946,Priya Singh,m,34,,2022-06-12,2023-08-15,11343.89,2.0,invalid_email,8174171168.0,India
+CUST1907,Neha Verma,F,30 years,Chennai,2022-09-26,2021-01-17,19237.11,3.0,invalid_email,,India
+CUST1123,Arjun Singh,M,,Chennai,2022-01-26,2022-08-10,10485.41,2.0,user@example.com,7108270877.0,India
+CUST1536,Vikas Yadav,MALE,30 years,Delhi,2023-12-13,2021-04-12,,1.0,test@domain.com,7214478825.0,InDia
+CUST1343,Anjali Gupta,,30 years,Kolkata,2023-06-23,2022-07-15,23039.83,3.0,user@example.com,8651226450.0,InDia
+CUST1212,Arjun Singh,,29,Mumbai,2022-11-26,2022-06-08,,,invalid_email,,india
+CUST1570,Rahul Sharma,MALE,,delhi,2023-07-08,2024-04-26,,5.0,invalid_email,8177776289.0,india
+CUST1366,Amit Kumar,M,56,Mumbai,2021-05-13,2024-11-15,,4.0,user@example.com,9419452769.0,InDia
+CUST1587,Amit Kumar,m,,,2023-03-15,2025-01-10,,2.0,invalid_email,,InDia
+CUST1504,Priya Singh,,30 years,,2020-09-05,2022-02-25,,4.0,invalid_email,,india
+CUST1489,Anjali Gupta,MALE,26,Kolkata,2020-08-28,2023-09-26,18705.05,1.0,invalid_email,,india
+CUST1397,Rahul Sharma,m,52,Hyderabad,2021-02-04,2024-04-02,26063.96,2.0,test@domain.com,,India
+CUST1000,Anjali Gupta,f,,mumbai,2023-11-15,2021-04-07,11831.43,4.0,user@example.com,,india
+CUST1815,Vikas Yadav,,35,Kolkata,2022-02-26,2022-11-26,21604.99,,test@domain.com,6420504311.0,InDia
+CUST1717,Anjali Gupta,FEMALE,30 years,Mumbai,2021-10-01,2024-12-16,28382.96,,test@domain.com,6803438709.0,india
+CUST1123,Amit Kumar,M,30 years,delhi,2022-10-03,2024-10-08,3749.06,5.0,test@domain.com,8280486175.0,india
+CUST1635,Simran Kaur,FEMALE,30 years,CHENNAI,2023-09-19,2023-01-07,15598.72,,test@domain.com,7895566348.0,india
+CUST1836,Rohit Mehta,MALE,,Kolkata,2021-01-03,2021-10-08,,2.0,invalid_email,,india
+CUST1642,Anjali Gupta,,,hyderabad,2021-12-17,2022-05-23,,3.0,user@example.com,,india
+CUST1783,Rohit Mehta,M,30 years,Mumbai,2023-05-05,2021-10-10,,3.0,invalid_email,,india
+CUST1689,Rahul Sharma,,,CHENNAI,2021-09-12,2021-07-02,,5.0,test@domain.com,7920546060.0,india
+CUST1124,Simran Kaur,f,,Chennai,2020-02-03,2022-04-25,42222.83,5.0,user@example.com,,InDia
+CUST1497,Amit Kumar,m,30 years,delhi,2023-05-11,2024-11-25,2887.31,,user@example.com,8119834095.0,india
+CUST1005,Arjun Singh,,49,,2021-08-09,2021-11-22,25788.51,4.0,test@domain.com,8733308366.0,InDia
+CUST1082,Kavya Nair,FEMALE,30 years,CHENNAI,2020-06-05,2022-02-13,4697.42,5.0,user@example.com,,InDia
+CUST1164,Amit Kumar,MALE,41,mumbai,2020-05-29,2024-12-09,4100.47,1.0,test@domain.com,,india
+CUST1644,Priya Singh,m,,,2022-05-16,2023-07-01,,,user@example.com,9798906438.0,InDia
+CUST1514,Anjali Gupta,M,,,2022-03-31,2023-06-16,,3.0,invalid_email,7198938920.0,InDia
+CUST1374,Kavya Nair,FEMALE,30 years,Mumbai,2021-07-22,2022-11-02,16858.08,,invalid_email,,India
+CUST1537,Simran Kaur,M,,Hyderabad,2020-01-10,2024-05-30,46846.52,2.0,user@example.com,8886141180.0,InDia
+CUST1280,Arjun Singh,MALE,46,Delhi,2020-05-03,2023-12-03,47645.35,2.0,user@example.com,7688160259.0,InDia
+CUST1195,Anjali Gupta,M,,Chennai,2022-09-16,2022-10-08,22871.83,,test@domain.com,6483668014.0,India
+CUST1316,Rohit Mehta,m,30 years,Kolkata,2021-08-20,2023-09-21,26920.16,2.0,test@domain.com,6464172435.0,india
+CUST1902,Priya Singh,m,,CHENNAI,2021-01-30,2022-06-19,1153.8,3.0,invalid_email,6216050997.0,india
+CUST1919,Simran Kaur,M,42,Chennai,2021-05-27,2022-04-14,21324.2,5.0,user@example.com,,India
+CUST1796,Amit Kumar,F,24,,2023-05-08,2022-09-26,44910.98,,user@example.com,,india
+CUST1157,Priya Singh,f,30 years,mumbai,2021-05-15,2023-03-26,22736.62,3.0,test@domain.com,,India
+CUST1305,Arjun Singh,M,,mumbai,2021-05-06,2022-06-16,1790.29,,user@example.com,,india
+CUST1680,Neha Verma,f,19,Chennai,2021-04-16,2024-12-15,,2.0,user@example.com,9218277092.0,india
+CUST1979,Arjun Singh,FEMALE,26,Delhi,2022-08-25,2023-02-11,,3.0,invalid_email,8491864916.0,india
+CUST1203,Anjali Gupta,M,20,Kolkata,2024-01-10,2024-08-05,,5.0,user@example.com,,InDia
+CUST1235,Arjun Singh,MALE,30 years,Kolkata,2020-06-10,2021-08-12,42234.45,5.0,test@domain.com,7286589118.0,India
+CUST1462,Kavya Nair,MALE,,CHENNAI,2022-07-30,2024-08-16,36483.46,,invalid_email,,India
+CUST1369,Vikas Yadav,M,,,2021-12-23,2022-03-19,,2.0,invalid_email,9525929647.0,India
+CUST1474,Neha Verma,F,30 years,Delhi,2023-04-18,2024-08-09,15102.44,3.0,test@domain.com,8383844670.0,india
+CUST1873,Neha Verma,MALE,,Chennai,2023-02-15,2022-01-10,,3.0,test@domain.com,9127230642.0,india
+CUST1964,Rohit Mehta,m,30 years,delhi,2020-10-12,2022-01-15,13867.41,2.0,user@example.com,,InDia
+CUST1957,Kavya Nair,m,30 years,Kolkata,2023-02-03,2023-02-04,,4.0,user@example.com,7751605869.0,india
+CUST1037,Rahul Sharma,FEMALE,30 years,Kolkata,2023-04-03,2022-07-10,22010.84,1.0,test@domain.com,6817705570.0,InDia
+CUST1029,Vikas Yadav,m,,delhi,2020-03-18,2022-07-21,11261.02,3.0,user@example.com,7561007998.0,India
+CUST1160,Amit Kumar,,30 years,Kolkata,2021-10-20,2021-08-03,,1.0,test@domain.com,9924748147.0,india
+CUST1298,Amit Kumar,F,,Kolkata,2021-03-24,2021-08-01,,1.0,invalid_email,8212278403.0,InDia
+CUST1138,Neha Verma,f,,Chennai,2022-07-13,2021-07-16,15397.56,3.0,user@example.com,9929994440.0,InDia
+CUST1636,Vikas Yadav,FEMALE,,hyderabad,2023-10-15,2021-10-21,,2.0,user@example.com,,india
+CUST1879,Kavya Nair,FEMALE,30 years,hyderabad,2020-10-01,2021-11-09,,5.0,test@domain.com,7264982360.0,InDia
+CUST1446,Neha Verma,MALE,30 years,Delhi,2020-01-15,2023-09-20,26545.19,1.0,user@example.com,,InDia
+CUST1828,Amit Kumar,,33,hyderabad,2020-03-14,2022-06-26,,4.0,user@example.com,8190562338.0,India
+CUST1540,Neha Verma,F,56,mumbai,2021-06-01,2021-05-18,,4.0,test@domain.com,7757423791.0,india
+CUST1305,Priya Singh,,33,hyderabad,2021-02-07,2023-04-23,,3.0,invalid_email,,InDia
+CUST1447,Priya Singh,FEMALE,19,Hyderabad,2020-09-02,2024-09-28,,3.0,user@example.com,,InDia
+CUST1431,Neha Verma,M,30 years,Delhi,2021-08-30,2024-05-04,2686.05,,test@domain.com,,India
+CUST1894,Priya Singh,f,,hyderabad,2023-10-15,2023-02-15,,1.0,invalid_email,6506589434.0,India
+CUST1842,Anjali Gupta,MALE,45,Delhi,2022-07-20,2021-04-02,,4.0,user@example.com,8823502087.0,India
+CUST1352,Priya Singh,F,30 years,Kolkata,2021-10-14,2022-06-14,39383.78,3.0,test@domain.com,,India
+CUST1366,Kavya Nair,MALE,18,Kolkata,2021-06-10,2024-02-11,11481.44,1.0,user@example.com,,india
+CUST1204,Amit Kumar,FEMALE,30 years,CHENNAI,2020-11-19,2021-12-29,19799.67,3.0,user@example.com,8375234828.0,InDia
+CUST1896,Rohit Mehta,M,30 years,Mumbai,2021-06-26,2023-12-17,23377.7,5.0,invalid_email,9742509468.0,InDia
+CUST1498,Rohit Mehta,F,,Chennai,2020-05-10,2024-09-02,,3.0,user@example.com,,InDia
+CUST1458,Rohit Mehta,,,Chennai,2023-12-22,2021-12-20,,2.0,user@example.com,9148333808.0,india
+CUST1484,Vikas Yadav,FEMALE,30 years,delhi,2020-09-08,2023-06-18,,4.0,test@domain.com,6934829912.0,India
+CUST1277,Kavya Nair,,18,Mumbai,2021-12-19,2024-05-13,24993.04,1.0,invalid_email,6780646417.0,India
+CUST1446,Amit Kumar,,30 years,Delhi,2023-07-29,2024-08-06,31779.48,,test@domain.com,,india
+CUST1431,Rohit Mehta,FEMALE,,Kolkata,2020-07-16,2022-09-05,,,user@example.com,,India
+CUST1949,Rahul Sharma,M,41,,2020-07-15,2023-12-22,,1.0,user@example.com,7163026842.0,InDia
+CUST1865,Rohit Mehta,m,23,Hyderabad,2021-11-22,2021-07-17,40587.44,4.0,user@example.com,8398294772.0,India
+CUST1787,Rohit Mehta,f,,Kolkata,2022-04-22,2023-12-19,19162.48,,user@example.com,,india
+CUST1144,Amit Kumar,f,,Chennai,2023-05-15,2022-09-18,1386.56,,invalid_email,7972329379.0,india
+CUST1693,Anjali Gupta,,,hyderabad,2020-03-28,2023-08-29,13193.15,1.0,user@example.com,8823493164.0,India
+CUST1263,Rahul Sharma,m,30 years,Chennai,2022-05-24,2024-03-01,,5.0,user@example.com,7075658555.0,India
+CUST1658,Priya Singh,f,35,delhi,2021-11-04,2022-04-29,45794.43,1.0,test@domain.com,7430079883.0,InDia
+CUST1943,Rohit Mehta,,30 years,CHENNAI,2021-11-19,2023-02-25,,1.0,user@example.com,,InDia
+CUST1688,Priya Singh,f,,Chennai,2021-09-10,2024-06-03,,5.0,invalid_email,,india
+CUST1343,Arjun Singh,f,30 years,Mumbai,2021-01-25,2023-06-29,,2.0,test@domain.com,,India
+CUST1821,Neha Verma,FEMALE,30 years,mumbai,2020-05-30,2024-12-11,,5.0,user@example.com,8078002972.0,InDia
+CUST1346,Neha Verma,MALE,34,,2021-01-26,2025-01-20,6876.55,1.0,invalid_email,8771923340.0,InDia
+CUST1762,Amit Kumar,m,30 years,delhi,2023-01-30,2024-06-10,,1.0,invalid_email,6283885119.0,india
+CUST1303,Neha Verma,f,26,Mumbai,2021-11-02,2022-06-05,32496.96,2.0,invalid_email,8511083365.0,india
+CUST1884,Neha Verma,M,,,2022-12-13,2023-05-17,,5.0,test@domain.com,8173408225.0,India
+CUST1687,Rahul Sharma,m,,,2023-05-06,2021-03-14,,3.0,user@example.com,8486971109.0,india
+CUST1359,Amit Kumar,FEMALE,,CHENNAI,2021-12-28,2021-06-23,,2.0,user@example.com,,india
+CUST1255,Arjun Singh,f,,hyderabad,2021-01-17,2025-02-06,,2.0,test@domain.com,,InDia
+CUST1005,Priya Singh,MALE,,Delhi,2022-10-10,2021-11-20,,4.0,user@example.com,,India
+CUST1281,Rohit Mehta,f,54,CHENNAI,2020-04-13,2021-12-09,,,test@domain.com,6443752840.0,InDia
+CUST1986,Rohit Mehta,FEMALE,44,Chennai,2021-03-21,2025-01-24,13636.13,1.0,invalid_email,,India
+CUST1223,Neha Verma,M,,hyderabad,2022-11-03,2023-04-01,,,invalid_email,,india
+CUST1676,Rahul Sharma,M,30 years,Chennai,2023-07-08,2025-02-05,,,user@example.com,,InDia
+CUST1834,Amit Kumar,MALE,,Mumbai,2023-02-02,2024-07-24,,5.0,user@example.com,6420280532.0,India
+CUST1444,Rahul Sharma,FEMALE,28,Hyderabad,2020-06-23,2022-06-12,5363.63,1.0,test@domain.com,,india
+CUST1485,Simran Kaur,M,30 years,Delhi,2021-06-10,2021-06-19,,5.0,test@domain.com,9502328198.0,india
+CUST1740,Rohit Mehta,F,24,Delhi,2022-08-25,2024-03-23,38168.31,,user@example.com,,india
+CUST1722,Anjali Gupta,MALE,47,Hyderabad,2022-03-10,2024-08-11,29880.92,,invalid_email,,InDia
+CUST1163,Simran Kaur,m,,mumbai,2020-01-31,2023-04-24,2068.35,4.0,invalid_email,,India
+CUST1033,Priya Singh,M,,mumbai,2023-01-24,2024-09-06,,,user@example.com,,InDia
+CUST1820,Neha Verma,M,48,,2021-09-06,2021-09-12,,1.0,invalid_email,9069987498.0,India
+CUST1403,Rohit Mehta,,30 years,hyderabad,2022-01-14,2021-05-01,,1.0,user@example.com,6691141380.0,India
+CUST1007,Neha Verma,FEMALE,25,CHENNAI,2022-12-15,2022-04-01,,,user@example.com,,InDia
+CUST1645,Kavya Nair,M,23,mumbai,2023-05-25,2021-01-18,23462.41,1.0,user@example.com,7697377559.0,india
+CUST1020,Amit Kumar,f,30 years,CHENNAI,2023-09-08,2021-11-28,42759.63,5.0,user@example.com,9849790298.0,InDia
+CUST1500,Vikas Yadav,f,30 years,delhi,2022-09-27,2022-06-11,,1.0,invalid_email,,India
+CUST1565,Simran Kaur,FEMALE,26,delhi,2021-11-24,2023-02-17,,5.0,test@domain.com,,india
+CUST1391,Vikas Yadav,,30 years,CHENNAI,2021-01-23,2024-09-06,15102.99,,user@example.com,6988658316.0,India
+CUST1013,Arjun Singh,f,,Kolkata,2023-06-03,2023-12-09,,5.0,invalid_email,7628797637.0,India
+CUST1944,Rohit Mehta,FEMALE,19,Kolkata,2021-10-18,2022-03-21,11909.69,,test@domain.com,7266457447.0,India
+CUST1567,Arjun Singh,MALE,30 years,delhi,2020-07-03,2023-02-10,45155.65,1.0,user@example.com,8035261451.0,InDia
+CUST1042,Rahul Sharma,MALE,53,mumbai,2020-01-22,2021-12-18,18729.12,1.0,invalid_email,7638504566.0,India
+CUST1273,Simran Kaur,F,,Hyderabad,2020-03-19,2023-08-08,,1.0,invalid_email,8007750220.0,india
+CUST1627,Kavya Nair,f,30 years,Kolkata,2021-07-06,2024-06-18,49090.9,4.0,test@domain.com,,InDia
+CUST1679,Priya Singh,M,,hyderabad,2020-02-10,2022-01-12,,1.0,invalid_email,6444490979.0,India
+CUST1201,Rahul Sharma,m,48,delhi,2023-02-19,2022-04-12,,5.0,invalid_email,,india
+CUST1309,Priya Singh,M,,mumbai,2020-12-11,2023-08-25,,5.0,invalid_email,,india
+CUST1675,Rahul Sharma,M,,Hyderabad,2021-02-07,2021-07-02,,2.0,test@domain.com,7464965520.0,india
+CUST1214,Kavya Nair,M,,Delhi,2020-04-13,2024-01-08,,5.0,test@domain.com,,india
+CUST1596,Vikas Yadav,f,30 years,,2020-01-10,2022-06-21,5457.98,1.0,test@domain.com,,india
+CUST1253,Kavya Nair,M,,Hyderabad,2023-08-13,2022-11-18,,4.0,invalid_email,8574448089.0,India
+CUST1341,Anjali Gupta,MALE,30 years,,2024-01-01,2023-01-01,,3.0,invalid_email,,India
+CUST1422,Kavya Nair,m,30 years,delhi,2023-12-10,2022-07-30,38469.72,1.0,user@example.com,9160387294.0,India
+CUST1388,Anjali Gupta,MALE,30 years,delhi,2022-08-11,2024-11-11,,4.0,test@domain.com,6717629397.0,InDia
+CUST1357,Priya Singh,M,,CHENNAI,2022-01-21,2024-04-21,,1.0,test@domain.com,9721744358.0,India
+CUST1573,Rahul Sharma,f,54,Delhi,2023-06-25,2024-12-14,,,user@example.com,,InDia
+CUST1839,Anjali Gupta,M,30,mumbai,2022-06-15,2024-07-11,,4.0,invalid_email,6624690071.0,India
+CUST1438,Amit Kumar,f,31,Mumbai,2024-02-03,2023-06-14,,3.0,user@example.com,,india
+CUST1085,Arjun Singh,FEMALE,41,,2020-12-14,2021-08-04,4400.62,2.0,user@example.com,,InDia
+CUST1873,Simran Kaur,,25,CHENNAI,2023-05-27,2022-10-02,,4.0,user@example.com,,India
+CUST1426,Rahul Sharma,FEMALE,,Kolkata,2021-10-19,2024-10-19,,2.0,user@example.com,,India
+CUST1885,Kavya Nair,m,30 years,hyderabad,2022-09-12,2021-11-17,20267.96,1.0,test@domain.com,9278669061.0,InDia
+CUST1375,Arjun Singh,M,26,delhi,2021-07-19,2024-08-19,,2.0,test@domain.com,7740767642.0,india
+CUST1928,Neha Verma,,,Delhi,2020-01-17,2021-08-20,35104.08,5.0,test@domain.com,7807854375.0,India
+CUST1644,Kavya Nair,,50,delhi,2022-12-30,2021-12-26,,,invalid_email,,InDia
+CUST1810,Simran Kaur,,,Mumbai,2022-09-08,2023-04-09,8088.15,5.0,user@example.com,,india
+CUST1732,Simran Kaur,,50,Chennai,2023-10-24,2021-01-01,,4.0,user@example.com,7512201922.0,india
+CUST1865,Neha Verma,MALE,44,delhi,2023-04-24,2022-02-09,,,user@example.com,8411510445.0,InDia
+CUST1877,Neha Verma,MALE,,mumbai,2021-04-12,2022-05-12,,3.0,invalid_email,,India
+CUST1700,Simran Kaur,MALE,30 years,,2022-09-28,2022-04-13,,3.0,test@domain.com,6408043583.0,InDia
+CUST1281,Simran Kaur,m,,delhi,2021-12-07,2022-07-09,,2.0,invalid_email,,India
+CUST1112,Priya Singh,M,,hyderabad,2021-07-03,2025-01-28,11148.86,,user@example.com,9856922760.0,InDia
+CUST1835,Kavya Nair,,,,2023-12-06,2023-05-13,44948.48,5.0,invalid_email,,India
+CUST1090,Neha Verma,FEMALE,30 years,Kolkata,2022-07-19,2023-06-26,,,test@domain.com,,India
+CUST1227,Rahul Sharma,,24,hyderabad,2021-10-07,2024-03-25,21920.43,2.0,test@domain.com,,InDia
+CUST1765,Anjali Gupta,MALE,,CHENNAI,2022-12-06,2022-09-28,27067.48,4.0,invalid_email,,InDia
+CUST1254,Neha Verma,,30 years,,2020-09-01,2022-03-19,,,test@domain.com,,india
+CUST1275,Anjali Gupta,m,49,delhi,2022-07-03,2022-05-01,,3.0,test@domain.com,,india
+CUST1952,Vikas Yadav,M,,hyderabad,2021-03-28,2021-09-24,,3.0,user@example.com,8277716100.0,InDia
+CUST1532,Anjali Gupta,m,,delhi,2021-01-09,2021-05-02,22793.31,2.0,test@domain.com,6099428429.0,India
+CUST1300,Anjali Gupta,MALE,43,,2022-05-16,2023-05-17,,5.0,user@example.com,9968362242.0,India
+CUST1407,Rohit Mehta,M,,Delhi,2021-04-23,2021-11-12,36345.18,1.0,invalid_email,9862898215.0,india
+CUST1793,Rohit Mehta,,,Kolkata,2021-10-02,2024-12-07,43209.42,,test@domain.com,9816430129.0,india
+CUST1344,Priya Singh,m,30 years,delhi,2022-06-05,2021-11-17,,3.0,invalid_email,8690646800.0,india
+CUST1735,Priya Singh,FEMALE,44,Mumbai,2023-03-04,2022-12-26,,5.0,invalid_email,,india
+CUST1029,Arjun Singh,FEMALE,30 years,mumbai,2022-12-13,2021-04-05,7233.13,5.0,invalid_email,,InDia
+CUST1424,Anjali Gupta,FEMALE,,Hyderabad,2022-05-01,2024-12-15,,5.0,test@domain.com,8466473096.0,India
+CUST1271,Amit Kumar,M,,Kolkata,2023-12-08,2023-03-24,6980.27,3.0,user@example.com,7783467467.0,India
+CUST1024,Rahul Sharma,,59,Chennai,2022-08-08,2024-04-04,,3.0,user@example.com,7107988157.0,India
+CUST1480,Kavya Nair,m,48,Chennai,2023-07-11,2024-07-11,,2.0,invalid_email,,India
+CUST1632,Anjali Gupta,m,36,hyderabad,2021-11-01,2024-01-09,,,user@example.com,,InDia
+CUST1270,Rahul Sharma,,,CHENNAI,2021-04-10,2022-01-31,,5.0,test@domain.com,6464280371.0,india
+CUST1162,Priya Singh,f,,Delhi,2021-02-09,2025-01-10,39787.76,,user@example.com,,India
+CUST1899,Simran Kaur,f,30 years,delhi,2020-04-28,2022-09-14,22229.39,3.0,user@example.com,8552828861.0,india
+CUST1333,Simran Kaur,FEMALE,54,mumbai,2023-03-23,2022-10-07,,4.0,invalid_email,,india
+CUST1819,Vikas Yadav,m,30 years,Hyderabad,2020-11-18,2021-09-03,,,invalid_email,,india
+CUST1032,Neha Verma,F,,CHENNAI,2022-07-04,2023-07-04,,1.0,test@domain.com,,india
+CUST1108,Rohit Mehta,,,CHENNAI,2020-02-10,2022-12-11,40691.06,,invalid_email,,India
+CUST1384,Kavya Nair,m,,Chennai,2024-01-25,2022-11-21,,2.0,invalid_email,,InDia
+CUST1492,Rohit Mehta,FEMALE,30,hyderabad,2020-02-10,2022-03-19,,,invalid_email,8297411241.0,India
+CUST1027,Arjun Singh,FEMALE,,Delhi,2023-11-12,2024-03-13,8378.67,5.0,test@domain.com,,India
+CUST1939,Rohit Mehta,MALE,46,,2021-05-10,2022-07-04,6846.62,2.0,invalid_email,,InDia
+CUST1460,Rahul Sharma,f,,,2023-11-08,2024-05-23,16511.28,4.0,user@example.com,7513655951.0,InDia
+CUST1185,Neha Verma,M,30 years,Kolkata,2021-05-16,2023-04-09,48639.11,5.0,user@example.com,6002326498.0,InDia
+CUST1957,Neha Verma,F,,Delhi,2022-01-05,2022-01-23,,5.0,user@example.com,9286953639.0,InDia
+CUST1490,Neha Verma,f,30 years,Chennai,2022-08-30,2021-01-08,,2.0,test@domain.com,7756161386.0,india
+CUST1389,Neha Verma,F,30 years,Kolkata,2023-09-17,2024-12-08,26957.92,5.0,invalid_email,,InDia
+CUST1231,Anjali Gupta,,,Kolkata,2020-06-21,2021-08-29,13311.26,2.0,user@example.com,7593903264.0,India
+CUST1221,Anjali Gupta,,,Mumbai,2021-10-13,2021-11-03,30454.04,,test@domain.com,9905881598.0,InDia
+CUST1379,Neha Verma,F,,Mumbai,2023-12-15,2023-01-18,40773.07,4.0,invalid_email,6581225890.0,india
+CUST1485,Rahul Sharma,M,,delhi,2023-12-02,2024-12-04,1895.51,1.0,user@example.com,8608073721.0,India
+CUST1433,Rohit Mehta,M,,mumbai,2021-12-16,2023-04-26,,5.0,user@example.com,,InDia
+CUST1962,Vikas Yadav,MALE,,Kolkata,2023-10-03,2021-10-26,,5.0,user@example.com,,InDia
+CUST1382,Simran Kaur,,,Kolkata,2022-07-31,2024-09-08,10946.27,1.0,invalid_email,8528288822.0,India
+CUST1007,Arjun Singh,M,30,Delhi,2022-03-14,2024-03-27,25682.47,4.0,test@domain.com,,india
+CUST1959,Simran Kaur,,,Chennai,2022-08-10,2022-05-29,13754.81,3.0,invalid_email,9011211046.0,India
+CUST1464,Priya Singh,FEMALE,48,Hyderabad,2023-07-04,2022-04-15,31053.99,5.0,test@domain.com,6591410444.0,india
+CUST1860,Rohit Mehta,m,60,Delhi,2023-05-12,2024-04-22,40502.31,3.0,user@example.com,9921864053.0,India
+CUST1155,Neha Verma,m,27,mumbai,2024-01-26,2022-10-03,,2.0,invalid_email,,india
+CUST1201,Priya Singh,f,30 years,Hyderabad,2021-02-21,2023-04-09,19503.22,4.0,test@domain.com,,India
+CUST1979,Rahul Sharma,MALE,30 years,,2022-08-27,2024-01-17,,2.0,invalid_email,,india
+CUST1236,Arjun Singh,m,,mumbai,2021-03-05,2021-09-03,10439.17,1.0,user@example.com,,InDia
+CUST1180,Vikas Yadav,m,30 years,mumbai,2020-10-26,2021-10-23,,4.0,user@example.com,8178370069.0,InDia
+CUST1115,Amit Kumar,M,30 years,,2021-04-15,2023-11-22,43992.01,5.0,invalid_email,,InDia
+CUST1805,Anjali Gupta,MALE,30 years,Chennai,2023-06-20,2021-09-16,,,test@domain.com,,India
+CUST1829,Anjali Gupta,m,30 years,Hyderabad,2020-03-11,2022-05-04,,4.0,invalid_email,,india
+CUST1957,Vikas Yadav,,32,Hyderabad,2020-06-01,2024-10-27,47214.12,,user@example.com,,InDia
+CUST1502,Amit Kumar,M,,Kolkata,2021-02-05,2023-07-29,,,user@example.com,,india
+CUST1469,Anjali Gupta,F,27,hyderabad,2022-12-18,2024-11-24,,4.0,test@domain.com,6891632360.0,India
+CUST1810,Kavya Nair,M,30 years,delhi,2020-12-31,2024-10-22,,3.0,invalid_email,,InDia
+CUST1175,Kavya Nair,M,22,Mumbai,2022-10-12,2024-03-04,40904.02,3.0,test@domain.com,,india
+CUST1891,Neha Verma,f,51,Hyderabad,2022-09-13,2022-03-04,,5.0,user@example.com,8338063522.0,india
+CUST1839,Amit Kumar,m,,Kolkata,2020-02-13,2022-08-11,44611.93,5.0,test@domain.com,,India
+CUST1978,Kavya Nair,f,,Mumbai,2022-09-03,2023-03-11,7675.77,2.0,test@domain.com,7075066049.0,India
+CUST1703,Simran Kaur,F,35,,2021-02-09,2023-09-26,23505.15,,test@domain.com,8926999661.0,india
+CUST1001,Arjun Singh,f,30 years,Mumbai,2021-06-24,2023-06-16,47175.81,3.0,user@example.com,7093849238.0,InDia
+CUST1135,Anjali Gupta,MALE,30 years,delhi,2023-11-25,2024-08-27,,2.0,user@example.com,8495117166.0,India
+CUST1524,Rahul Sharma,FEMALE,,Mumbai,2021-08-03,2022-04-11,,4.0,test@domain.com,,InDia
+CUST1720,Rohit Mehta,FEMALE,30 years,mumbai,2020-05-26,2022-06-27,38097.17,4.0,user@example.com,7336668468.0,InDia
+CUST1136,Neha Verma,m,,hyderabad,2022-05-11,2021-09-19,,,user@example.com,8312825775.0,India
+CUST1259,Rahul Sharma,MALE,,Chennai,2020-05-23,2023-01-20,23994.06,2.0,user@example.com,6212717015.0,india
+CUST1373,Anjali Gupta,M,30 years,hyderabad,2022-01-05,2024-04-02,42784.68,5.0,test@domain.com,7563750707.0,india
+CUST1768,Arjun Singh,FEMALE,30 years,mumbai,2020-10-06,2021-12-04,8293.6,3.0,test@domain.com,6420598538.0,India
+CUST1253,Simran Kaur,M,,mumbai,2022-05-14,2024-06-28,18665.85,5.0,test@domain.com,6383323873.0,InDia
+CUST1026,Neha Verma,M,,Hyderabad,2020-02-25,2021-08-16,3862.29,,invalid_email,8454989591.0,india
+CUST1993,Anjali Gupta,,30 years,Chennai,2022-03-13,2022-07-26,,2.0,invalid_email,9138688610.0,India
+CUST1179,Simran Kaur,F,30 years,delhi,2022-08-30,2024-12-09,,4.0,test@domain.com,9180691779.0,india
+CUST1257,Kavya Nair,,,Delhi,2021-09-25,2022-06-03,39904.77,4.0,test@domain.com,6842974941.0,india
+CUST1544,Vikas Yadav,m,50,delhi,2021-03-26,2024-07-20,49349.7,5.0,invalid_email,8522927254.0,india
+CUST1652,Arjun Singh,MALE,,mumbai,2020-04-24,2023-09-29,37954.51,5.0,invalid_email,7479546547.0,India
+CUST1339,Amit Kumar,MALE,28,CHENNAI,2023-10-27,2024-04-12,10521.48,3.0,invalid_email,6247951241.0,India
+CUST1150,Amit Kumar,F,30 years,mumbai,2020-03-31,2024-07-25,,4.0,user@example.com,,InDia
+CUST1058,Simran Kaur,M,,delhi,2023-04-25,2021-04-13,34087.29,5.0,invalid_email,,India
+CUST1502,Rohit Mehta,MALE,30 years,Delhi,2022-12-19,2021-05-31,,,user@example.com,7036880200.0,InDia
+CUST1501,Arjun Singh,f,30 years,Mumbai,2023-10-02,2023-05-10,,1.0,user@example.com,8818304702.0,InDia
+CUST1129,Anjali Gupta,,,hyderabad,2023-11-14,2022-09-13,,3.0,user@example.com,,InDia
+CUST1415,Kavya Nair,f,30 years,,2022-12-09,2023-03-25,41132.35,2.0,invalid_email,,India
+CUST1143,Priya Singh,F,,Mumbai,2024-01-28,2023-03-09,,2.0,user@example.com,9744587249.0,india
+CUST1968,Anjali Gupta,M,30 years,Kolkata,2021-05-31,2023-10-27,1100.24,1.0,test@domain.com,9900474980.0,InDia
+CUST1852,Amit Kumar,f,30 years,Hyderabad,2022-11-08,2022-03-31,,4.0,invalid_email,6938995057.0,india
+CUST1414,Simran Kaur,f,42,Delhi,2023-09-30,2024-01-24,4529.03,2.0,test@domain.com,8657509207.0,India
+CUST1366,Amit Kumar,F,,hyderabad,2022-06-26,2024-09-24,24361.4,1.0,test@domain.com,9101045165.0,India
+CUST1695,Anjali Gupta,F,25,Chennai,2022-04-04,2024-12-12,16042.69,1.0,invalid_email,6782120970.0,india
+CUST1901,Kavya Nair,M,30 years,Kolkata,2022-05-06,2021-01-25,,3.0,test@domain.com,,india
+CUST1325,Simran Kaur,MALE,30 years,Chennai,2020-09-21,2022-07-22,2641.29,1.0,test@domain.com,,india
+CUST1579,Anjali Gupta,,26,CHENNAI,2022-06-27,2021-10-30,,3.0,user@example.com,,InDia
+CUST1891,Vikas Yadav,MALE,,Hyderabad,2022-12-17,2022-07-06,,2.0,user@example.com,,InDia
+CUST1847,Rohit Mehta,MALE,,CHENNAI,2020-12-18,2023-12-13,,2.0,invalid_email,,india
+CUST1168,Rohit Mehta,f,30 years,Hyderabad,2020-12-10,2021-04-13,,,user@example.com,,india
+CUST1158,Rahul Sharma,F,30 years,,2022-05-21,2021-11-26,,2.0,invalid_email,8487408633.0,india
+CUST1485,Neha Verma,MALE,,Chennai,2023-04-12,2022-05-23,,4.0,test@domain.com,7781103742.0,InDia
+CUST1458,Vikas Yadav,M,,Hyderabad,2021-09-06,2021-09-19,,4.0,user@example.com,9553831014.0,india
+CUST1698,Arjun Singh,FEMALE,,mumbai,2022-12-13,2024-05-02,12723.55,4.0,test@domain.com,6032697772.0,india
+CUST1056,Neha Verma,MALE,,mumbai,2021-05-04,2024-01-16,29132.67,,user@example.com,7932276192.0,india
+CUST1841,Anjali Gupta,M,,Hyderabad,2023-12-13,2024-11-23,25606.76,2.0,user@example.com,,india
+CUST1357,Vikas Yadav,FEMALE,30 years,Mumbai,2021-02-24,2023-04-19,7694.49,4.0,test@domain.com,,InDia
+CUST1117,Vikas Yadav,f,30 years,Hyderabad,2024-01-31,2022-06-10,44483.73,5.0,user@example.com,6631864827.0,india
+CUST1907,Neha Verma,f,30 years,,2021-12-28,2021-07-22,47140.9,4.0,test@domain.com,,india
+CUST1962,Anjali Gupta,M,60,Hyderabad,2020-07-22,2023-06-15,34107.57,5.0,user@example.com,8755957725.0,InDia
+CUST1028,Priya Singh,f,29,Delhi,2023-11-16,2023-01-30,15808.6,3.0,test@domain.com,,india
+CUST1791,Amit Kumar,f,47,Kolkata,2022-05-27,2024-09-29,30485.62,2.0,user@example.com,,InDia
+CUST1891,Amit Kumar,M,30 years,Kolkata,2021-03-21,2025-01-03,31317.05,5.0,user@example.com,8564218814.0,InDia
+CUST1883,Priya Singh,,,Delhi,2021-08-16,2021-07-09,39969.83,4.0,user@example.com,9924876055.0,InDia
+CUST1942,Priya Singh,,,Hyderabad,2022-08-18,2023-05-13,6967.83,4.0,user@example.com,6990106003.0,InDia
+CUST1082,Rahul Sharma,FEMALE,52,delhi,2021-10-07,2021-05-27,9204.5,1.0,test@domain.com,,india
+CUST1164,Kavya Nair,MALE,,Hyderabad,2023-04-13,2021-10-23,14709.47,,test@domain.com,,India
+CUST1106,Kavya Nair,M,,Mumbai,2021-02-10,2025-01-13,38025.25,3.0,test@domain.com,,InDia
+CUST1608,Anjali Gupta,f,,delhi,2020-09-30,2024-08-09,5395.46,1.0,user@example.com,6371445002.0,India
+CUST1045,Rahul Sharma,FEMALE,,Mumbai,2023-11-16,2021-04-15,48720.71,1.0,test@domain.com,9097585764.0,InDia
+CUST1710,Kavya Nair,MALE,30 years,delhi,2023-11-16,2022-11-12,,2.0,invalid_email,,india
+CUST1351,Kavya Nair,F,,Kolkata,2024-02-03,2024-02-28,4142.04,2.0,test@domain.com,,InDia
+CUST1876,Neha Verma,M,,Chennai,2020-11-17,2025-01-02,,,test@domain.com,8009807193.0,india
+CUST1769,Arjun Singh,m,22,,2021-07-23,2021-05-22,,1.0,invalid_email,7378889227.0,India
+CUST1049,Rohit Mehta,FEMALE,,,2020-11-15,2022-02-12,,1.0,test@domain.com,,india
+CUST1731,Simran Kaur,FEMALE,19,Delhi,2023-10-25,2023-02-24,12317.0,,invalid_email,,India
+CUST1259,Anjali Gupta,,,Chennai,2021-11-11,2023-07-03,,2.0,test@domain.com,,InDia
+CUST1515,Arjun Singh,F,,CHENNAI,2022-11-18,2025-02-02,32427.8,4.0,test@domain.com,6062999696.0,InDia
+CUST1305,Priya Singh,m,30 years,mumbai,2020-03-28,2021-10-06,,3.0,invalid_email,8669717204.0,india
+CUST1884,Simran Kaur,MALE,,,2022-10-06,2024-08-29,,4.0,invalid_email,9939698895.0,india
+CUST1083,Amit Kumar,m,56,mumbai,2022-04-24,2021-05-03,43675.79,,invalid_email,,india
+CUST1056,Kavya Nair,MALE,30 years,delhi,2020-02-02,2023-04-30,45695.49,3.0,user@example.com,,India
+CUST1901,Priya Singh,f,28,Delhi,2021-10-27,2021-09-08,30060.34,5.0,test@domain.com,,india
+CUST1272,Rohit Mehta,f,26,delhi,2021-01-18,2022-08-06,35519.48,,test@domain.com,9307204133.0,india
+CUST1129,Rohit Mehta,F,30 years,Delhi,2023-07-13,2021-07-15,27942.73,4.0,test@domain.com,,India
+CUST1005,Amit Kumar,F,30 years,Chennai,2023-09-02,2021-03-21,17652.81,,test@domain.com,6883783728.0,InDia
+CUST1571,Rohit Mehta,MALE,,Delhi,2022-02-01,2024-06-04,,1.0,user@example.com,9440119036.0,india
+CUST1076,Amit Kumar,m,30 years,delhi,2020-03-12,2024-09-25,,1.0,test@domain.com,9663514778.0,india
+CUST1779,Amit Kumar,f,,Chennai,2023-05-04,2024-11-21,,,invalid_email,,India
+CUST1489,Neha Verma,FEMALE,23,,2020-03-18,2021-08-28,1731.18,3.0,user@example.com,,InDia
+CUST1000,Rohit Mehta,,,delhi,2022-09-09,2021-06-27,13812.99,4.0,invalid_email,6346860615.0,india
+CUST1380,Rohit Mehta,FEMALE,54,Hyderabad,2020-08-24,2022-06-20,,3.0,invalid_email,8809338985.0,India
+CUST1635,Kavya Nair,m,,,2023-05-04,2022-10-18,23665.75,2.0,test@domain.com,9534569635.0,India
+CUST1449,Neha Verma,M,30 years,Hyderabad,2023-02-07,2023-11-26,24639.93,5.0,test@domain.com,8455143973.0,india
+CUST1178,Neha Verma,F,30 years,delhi,2021-07-17,2023-05-23,,,user@example.com,,india
+CUST1808,Amit Kumar,m,31,Kolkata,2021-02-04,2025-01-31,,5.0,invalid_email,,InDia
+CUST1816,Rohit Mehta,FEMALE,25,delhi,2022-11-19,2023-12-30,9902.9,5.0,test@domain.com,,InDia
+CUST1022,Arjun Singh,M,,Chennai,2020-03-18,2022-02-19,,4.0,test@domain.com,,InDia
+CUST1062,Anjali Gupta,FEMALE,30 years,mumbai,2023-11-21,2022-09-08,13495.39,,user@example.com,,India
+CUST1455,Neha Verma,M,53,Mumbai,2020-12-29,2023-04-17,,3.0,test@domain.com,,india
+CUST1474,Anjali Gupta,f,30 years,Mumbai,2023-07-07,2024-09-01,,,test@domain.com,,India
+CUST1908,Priya Singh,,30 years,,2021-10-19,2023-09-25,,,user@example.com,,India
+CUST1035,Arjun Singh,MALE,,mumbai,2020-02-14,2022-06-28,,,user@example.com,7872955860.0,India
+CUST1059,Rahul Sharma,MALE,,Kolkata,2020-09-17,2024-08-25,24882.41,1.0,user@example.com,9908240310.0,India
+CUST1322,Amit Kumar,m,,Hyderabad,2023-12-13,2022-02-13,33019.93,1.0,test@domain.com,6827134583.0,InDia
+CUST1413,Rahul Sharma,FEMALE,,Chennai,2020-02-13,2022-03-19,,,test@domain.com,7032383288.0,india
+CUST1289,Neha Verma,,30 years,hyderabad,2022-05-26,2023-02-28,49430.81,,user@example.com,9682921951.0,InDia
+CUST1494,Rahul Sharma,,,delhi,2020-08-08,2024-05-17,24741.83,1.0,user@example.com,,InDia
+CUST1381,Kavya Nair,M,30 years,mumbai,2023-03-05,2023-08-12,3375.34,1.0,invalid_email,6138733478.0,india
+CUST1221,Priya Singh,,30 years,Hyderabad,2023-01-19,2023-08-13,6325.05,4.0,test@domain.com,,InDia
+CUST1007,Anjali Gupta,,30 years,Chennai,2021-03-22,2021-12-16,,2.0,test@domain.com,7432943325.0,InDia
+CUST1348,Anjali Gupta,M,52,Delhi,2020-11-17,2022-04-17,9070.63,,test@domain.com,7420052098.0,InDia
+CUST1767,Simran Kaur,,25,delhi,2023-12-27,2021-04-24,8875.66,1.0,user@example.com,7816816955.0,India
+CUST1551,Rahul Sharma,m,39,mumbai,2021-01-31,2022-07-23,20271.68,3.0,user@example.com,,India
+CUST1362,Neha Verma,,,Kolkata,2021-12-21,2024-06-26,,4.0,test@domain.com,,India
+CUST1422,Anjali Gupta,FEMALE,60,,2020-01-16,2024-12-25,38151.88,4.0,user@example.com,,InDia
+CUST1997,Rahul Sharma,f,19,,2020-07-08,2022-09-04,,2.0,invalid_email,7521353090.0,India
+CUST1735,Anjali Gupta,F,30 years,Mumbai,2020-07-10,2024-09-20,,1.0,user@example.com,,India
+CUST1843,Kavya Nair,F,,,2020-01-01,2021-11-22,,2.0,test@domain.com,6480090272.0,InDia
+CUST1060,Anjali Gupta,,30 years,CHENNAI,2023-05-11,2024-01-25,19929.92,5.0,test@domain.com,6393264512.0,india
+CUST1124,Anjali Gupta,,26,Hyderabad,2020-06-09,2022-10-15,,5.0,invalid_email,,india
+CUST1024,Rahul Sharma,f,,Mumbai,2023-08-03,2021-11-03,44525.74,4.0,user@example.com,6215986328.0,india
+CUST1453,Arjun Singh,M,46,hyderabad,2022-06-26,2024-12-13,,2.0,user@example.com,9635837333.0,India
+CUST1945,Rahul Sharma,,49,CHENNAI,2022-01-12,2021-01-04,,3.0,user@example.com,7960722250.0,India
+CUST1612,Vikas Yadav,m,,,2022-12-25,2022-04-03,47165.14,,user@example.com,,india
+CUST1705,Simran Kaur,MALE,22,Mumbai,2021-01-03,2021-12-30,,2.0,test@domain.com,,InDia
+CUST1719,Arjun Singh,MALE,,CHENNAI,2020-07-03,2023-12-07,15226.51,3.0,test@domain.com,,india
+CUST1163,Kavya Nair,m,30 years,Kolkata,2020-03-11,2023-11-28,12544.52,3.0,test@domain.com,,InDia
+CUST1168,Kavya Nair,m,20,CHENNAI,2020-04-09,2021-12-30,,3.0,invalid_email,8316074021.0,india
+CUST1525,Rahul Sharma,f,38,Delhi,2020-12-28,2024-06-21,,5.0,invalid_email,,InDia
+CUST1824,Kavya Nair,m,51,Mumbai,2022-01-20,2023-02-22,10306.51,5.0,test@domain.com,7020360232.0,india
+CUST1393,Amit Kumar,F,24,,2021-03-13,2023-11-26,26273.06,2.0,test@domain.com,9737190835.0,India
+CUST1451,Anjali Gupta,f,30 years,Chennai,2020-02-01,2021-10-05,40190.07,,test@domain.com,8390204910.0,InDia
+CUST1867,Arjun Singh,,,Delhi,2021-05-08,2023-09-23,20576.15,1.0,user@example.com,6103651956.0,India
+CUST1284,Arjun Singh,FEMALE,,delhi,2020-06-02,2021-01-03,18973.16,5.0,invalid_email,7071941722.0,India
+CUST1285,Amit Kumar,M,,CHENNAI,2021-05-12,2024-12-16,18946.88,1.0,user@example.com,,InDia
+CUST1673,Amit Kumar,f,,Kolkata,2020-05-15,2022-08-19,18558.83,,invalid_email,,India
+CUST1551,Anjali Gupta,M,35,Chennai,2021-08-04,2024-07-17,,1.0,invalid_email,9751515733.0,InDia
+CUST1266,Simran Kaur,MALE,30 years,,2022-01-20,2022-06-26,,3.0,test@domain.com,,india
+CUST1744,Priya Singh,m,30 years,CHENNAI,2021-08-09,2024-11-14,49978.43,,test@domain.com,6060521608.0,india
+CUST1447,Vikas Yadav,m,41,Delhi,2021-06-08,2023-10-11,37843.49,5.0,invalid_email,,india
+CUST1100,Simran Kaur,F,,Delhi,2021-03-07,2021-02-17,31209.38,,invalid_email,,InDia
+CUST1391,Rahul Sharma,F,30 years,mumbai,2020-07-14,2024-08-14,45936.98,,test@domain.com,8886541205.0,india
+CUST1058,Neha Verma,M,,hyderabad,2023-12-14,2025-01-24,39017.31,2.0,invalid_email,,india
+CUST1658,Neha Verma,m,,Mumbai,2022-05-08,2022-03-08,,,user@example.com,,InDia
+CUST1942,Simran Kaur,F,40,Chennai,2023-02-02,2022-08-13,,,test@domain.com,,India
+CUST1249,Arjun Singh,m,,Kolkata,2020-11-02,2022-09-05,25172.8,4.0,test@domain.com,7598597062.0,india
+CUST1164,Rahul Sharma,f,55,Mumbai,2024-01-07,2022-10-20,,1.0,test@domain.com,,india
+CUST1543,Anjali Gupta,f,55,CHENNAI,2021-06-14,2021-09-15,,1.0,user@example.com,,InDia
+CUST1222,Arjun Singh,f,25,Mumbai,2020-08-13,2023-01-22,47441.07,5.0,user@example.com,6212911557.0,India
+CUST1430,Simran Kaur,M,,hyderabad,2022-01-28,2022-10-24,42014.51,5.0,test@domain.com,,india
+CUST1113,Arjun Singh,FEMALE,,Hyderabad,2020-09-06,2021-09-14,41169.15,3.0,user@example.com,9517770437.0,InDia
+CUST1387,Arjun Singh,,49,delhi,2022-05-07,2023-04-23,,2.0,invalid_email,9604085484.0,InDia
+CUST1547,Rahul Sharma,FEMALE,30 years,hyderabad,2020-11-27,2024-09-28,21632.93,4.0,invalid_email,,India
+CUST1525,Amit Kumar,F,40,delhi,2020-01-15,2021-04-15,31227.12,1.0,test@domain.com,9491027373.0,India
+CUST1876,Amit Kumar,,,Kolkata,2023-07-02,2023-06-04,9461.41,,invalid_email,,India
+CUST1959,Kavya Nair,FEMALE,46,mumbai,2020-01-26,2023-05-05,21056.3,2.0,test@domain.com,,InDia
+CUST1060,Rohit Mehta,f,30 years,hyderabad,2022-12-20,2025-01-19,27456.43,3.0,test@domain.com,,India
+CUST1864,Priya Singh,,52,Kolkata,2020-03-29,2023-09-05,,,user@example.com,9992073295.0,india
+CUST1404,Priya Singh,m,25,Delhi,2021-07-06,2023-03-13,49815.27,5.0,test@domain.com,6943155670.0,india
+CUST1790,Kavya Nair,m,,hyderabad,2020-02-16,2022-03-03,11499.44,4.0,user@example.com,,India
+CUST1669,Rahul Sharma,f,,Delhi,2023-02-26,2023-06-02,46100.14,2.0,test@domain.com,,India
+CUST1312,Priya Singh,f,,Chennai,2021-08-25,2021-11-14,17884.4,4.0,invalid_email,6207052112.0,InDia
+CUST1419,Neha Verma,,,,2022-09-01,2023-05-21,,2.0,test@domain.com,,India
+CUST1068,Neha Verma,,30 years,CHENNAI,2020-05-06,2023-12-24,,2.0,test@domain.com,,InDia
+CUST1178,Rohit Mehta,F,38,Kolkata,2022-10-20,2021-06-05,3040.24,,test@domain.com,6918295032.0,India
+CUST1274,Kavya Nair,m,18,Kolkata,2021-05-02,2024-09-14,,5.0,test@domain.com,,india
+CUST1316,Priya Singh,f,50,Hyderabad,2022-07-04,2023-04-06,37991.11,3.0,test@domain.com,7679326316.0,india
+CUST1903,Anjali Gupta,F,28,Mumbai,2023-01-23,2021-12-22,,4.0,user@example.com,9499396553.0,InDia
+CUST1119,Rahul Sharma,MALE,,hyderabad,2022-10-13,2022-02-23,23914.11,5.0,invalid_email,,InDia
+CUST1922,Anjali Gupta,m,30 years,Delhi,2023-10-26,2024-03-31,26456.49,3.0,test@domain.com,,india
+CUST1692,Neha Verma,MALE,,Mumbai,2021-08-08,2024-06-16,28346.72,,invalid_email,9538016305.0,India
+CUST1014,Rohit Mehta,,,Chennai,2020-10-28,2022-11-27,,4.0,user@example.com,,InDia
+CUST1952,Rahul Sharma,MALE,,CHENNAI,2020-08-08,2023-05-11,,1.0,test@domain.com,,InDia
+CUST1737,Anjali Gupta,,30 years,mumbai,2023-06-24,2022-02-05,,,test@domain.com,,india
+CUST1457,Kavya Nair,F,37,hyderabad,2020-08-13,2024-09-12,24546.53,,invalid_email,8789475481.0,InDia
+CUST1241,Arjun Singh,f,37,Mumbai,2022-07-13,2022-03-03,,2.0,user@example.com,8267555266.0,india
+CUST1940,Amit Kumar,F,30 years,Kolkata,2021-06-08,2023-07-22,,2.0,test@domain.com,8921150773.0,India
+CUST1487,Rohit Mehta,M,30 years,Delhi,2021-12-15,2023-04-23,19043.83,4.0,user@example.com,7739703864.0,india
+CUST1086,Neha Verma,FEMALE,30 years,CHENNAI,2023-02-07,2024-01-09,,2.0,test@domain.com,8908982367.0,InDia
+CUST1408,Arjun Singh,MALE,30 years,delhi,2020-04-01,2023-10-01,18583.76,,user@example.com,7247167185.0,india
+CUST1750,Kavya Nair,FEMALE,,hyderabad,2020-05-18,2022-01-19,36483.65,2.0,user@example.com,6828998568.0,India
+CUST1410,Priya Singh,F,25,Delhi,2023-05-04,2023-10-07,,3.0,test@domain.com,,InDia
+CUST1891,Anjali Gupta,MALE,30 years,Chennai,2021-09-09,2021-04-22,39106.3,1.0,test@domain.com,,India
+CUST1110,Kavya Nair,m,57,mumbai,2021-03-16,2021-04-25,,4.0,test@domain.com,,InDia
+CUST1735,Priya Singh,F,47,Hyderabad,2020-07-26,2024-03-04,,3.0,test@domain.com,8712147324.0,InDia
+CUST1785,Vikas Yadav,,30 years,Hyderabad,2021-11-11,2022-06-06,10046.27,4.0,test@domain.com,6065010609.0,InDia
+CUST1116,Arjun Singh,F,30 years,Hyderabad,2022-09-29,2024-12-22,,3.0,invalid_email,7602761167.0,India
+CUST1254,Arjun Singh,f,30 years,,2021-04-20,2024-02-06,,,user@example.com,8656768451.0,india
+CUST1105,Simran Kaur,,,Chennai,2023-08-20,2023-04-20,15936.6,1.0,user@example.com,,InDia
+CUST1684,Priya Singh,FEMALE,30 years,Chennai,2022-08-31,2022-03-13,4292.45,5.0,test@domain.com,,India
+CUST1818,Simran Kaur,MALE,30 years,,2021-10-02,2022-02-21,49749.79,2.0,user@example.com,,InDia
+CUST1421,Rohit Mehta,M,30 years,delhi,2023-09-27,2024-01-11,,2.0,test@domain.com,6831396490.0,India
+CUST1979,Rahul Sharma,M,41,Chennai,2020-10-14,2022-11-05,14028.21,1.0,invalid_email,7136062837.0,india
+CUST1044,Neha Verma,f,27,Hyderabad,2020-09-23,2025-01-04,,3.0,invalid_email,,india
+CUST1661,Vikas Yadav,m,30 years,Kolkata,2021-04-29,2023-07-31,,,invalid_email,,india
+CUST1206,Priya Singh,FEMALE,30 years,Chennai,2020-08-09,2021-12-20,,3.0,test@domain.com,9337566463.0,India
+CUST1299,Rahul Sharma,m,,hyderabad,2023-05-14,2022-04-18,,,user@example.com,7718861078.0,india
+CUST1318,Rahul Sharma,f,,Chennai,2023-12-20,2024-04-15,,5.0,user@example.com,,india
+CUST1306,Priya Singh,F,40,Kolkata,2021-06-08,2021-04-03,,3.0,user@example.com,,india
+CUST1001,Kavya Nair,M,,Hyderabad,2020-03-22,2023-03-29,,,user@example.com,7185586150.0,InDia
+CUST1807,Simran Kaur,,30 years,hyderabad,2021-04-11,2021-10-11,17329.19,5.0,test@domain.com,,InDia
+CUST1351,Arjun Singh,MALE,30 years,Chennai,2021-09-12,2023-10-30,12008.6,4.0,test@domain.com,,india
+CUST1342,Neha Verma,MALE,30 years,,2021-09-29,2021-01-18,,3.0,test@domain.com,,india
+CUST1584,Kavya Nair,m,30 years,Hyderabad,2021-01-29,2021-09-18,44995.49,4.0,test@domain.com,,india
+CUST1952,Kavya Nair,f,,Delhi,2021-12-24,2023-04-20,,5.0,user@example.com,,india
+CUST1224,Simran Kaur,f,,mumbai,2021-10-23,2022-07-31,,4.0,invalid_email,,InDia
+CUST1180,Arjun Singh,,45,Chennai,2023-03-02,2021-03-27,,,test@domain.com,7452308116.0,India
+CUST1103,Arjun Singh,f,,Hyderabad,2020-09-09,2021-05-06,,,invalid_email,9242084150.0,india
+CUST1612,Rohit Mehta,FEMALE,29,Mumbai,2021-04-27,2024-12-16,,3.0,invalid_email,,india
+CUST1761,Arjun Singh,f,,,2022-10-01,2024-10-29,38877.74,4.0,user@example.com,6114528865.0,india
+CUST1310,Simran Kaur,,30 years,Hyderabad,2021-10-02,2022-03-23,14406.06,4.0,test@domain.com,9358957295.0,InDia
+CUST1414,Simran Kaur,,45,,2021-05-08,2021-05-08,,3.0,test@domain.com,,india
+CUST1790,Kavya Nair,F,30 years,Chennai,2022-01-08,2021-07-10,41650.24,1.0,test@domain.com,,india
+CUST1166,Rohit Mehta,m,,CHENNAI,2021-11-23,2022-12-29,,5.0,invalid_email,7282767250.0,India
+CUST1292,Priya Singh,,30 years,mumbai,2020-10-21,2024-05-13,39434.58,5.0,test@domain.com,,InDia
+CUST1265,Rohit Mehta,MALE,,hyderabad,2023-05-31,2022-04-28,,3.0,user@example.com,9167691985.0,India
+CUST1145,Vikas Yadav,f,,delhi,2020-11-16,2024-05-09,,5.0,user@example.com,,India
+CUST1529,Amit Kumar,,,Mumbai,2021-06-22,2022-05-11,,,invalid_email,,india
+CUST1183,Kavya Nair,f,54,Hyderabad,2021-04-29,2025-01-24,,5.0,user@example.com,6663930575.0,InDia
+CUST1040,Arjun Singh,F,,delhi,2021-09-01,2022-04-25,,5.0,user@example.com,,India
+CUST1384,Vikas Yadav,F,30 years,hyderabad,2022-12-05,2024-05-06,26679.22,4.0,test@domain.com,,InDia
+CUST1441,Rahul Sharma,M,30 years,delhi,2021-01-01,2022-02-18,1929.99,2.0,invalid_email,,India
+CUST1117,Priya Singh,F,,Kolkata,2021-02-28,2022-04-17,,,user@example.com,,India
+CUST1070,Rahul Sharma,m,30 years,Hyderabad,2023-10-12,2022-07-12,20820.77,,invalid_email,,India
+CUST1841,Rohit Mehta,F,30 years,Delhi,2023-04-08,2023-12-16,34205.79,,user@example.com,,India
+CUST1616,Simran Kaur,f,,,2021-09-09,2023-04-14,6421.18,1.0,invalid_email,,India
+CUST1512,Arjun Singh,f,37,Hyderabad,2020-11-16,2022-05-15,37642.59,2.0,test@domain.com,,india
+CUST1967,Arjun Singh,FEMALE,30 years,Delhi,2022-08-07,2021-05-06,,1.0,test@domain.com,8888825471.0,india
+CUST1326,Vikas Yadav,FEMALE,30,Kolkata,2023-08-01,2023-10-24,,4.0,user@example.com,,india
+CUST1580,Rahul Sharma,,30 years,Mumbai,2023-08-14,2023-02-18,25142.4,,user@example.com,9581469376.0,InDia
+CUST1352,Anjali Gupta,M,33,Hyderabad,2022-09-23,2023-05-28,,2.0,invalid_email,,InDia
+CUST1794,Rohit Mehta,FEMALE,19,,2020-01-28,2022-07-09,,4.0,test@domain.com,9683817248.0,India
+CUST1913,Arjun Singh,FEMALE,,delhi,2020-10-21,2021-11-23,,1.0,invalid_email,8177534873.0,india
+CUST1034,Priya Singh,,42,Chennai,2021-02-18,2023-12-24,,5.0,test@domain.com,,InDia
+CUST1294,Priya Singh,MALE,30 years,hyderabad,2023-06-26,2024-06-13,18003.22,2.0,test@domain.com,9004330295.0,india
+CUST1374,Rohit Mehta,M,30 years,hyderabad,2023-12-04,2024-08-12,45412.14,5.0,user@example.com,7775743884.0,India
+CUST1846,Amit Kumar,,40,,2021-11-26,2022-12-11,21351.96,3.0,invalid_email,7049216966.0,india
+CUST1244,Amit Kumar,FEMALE,30 years,Chennai,2020-03-15,2024-01-08,16830.08,4.0,test@domain.com,,india
+CUST1032,Priya Singh,,30 years,mumbai,2023-09-18,2024-04-17,,3.0,test@domain.com,9994073205.0,India
+CUST1058,Rohit Mehta,,,delhi,2022-05-12,2021-08-03,45496.0,5.0,test@domain.com,,India
+CUST1081,Vikas Yadav,FEMALE,30 years,Mumbai,2022-07-28,2024-04-09,16464.12,2.0,test@domain.com,6773059743.0,india
+CUST1164,Priya Singh,,21,Delhi,2023-10-21,2021-01-20,,1.0,user@example.com,8531055391.0,InDia
+CUST1817,Kavya Nair,f,30 years,Delhi,2020-07-26,2022-02-14,,4.0,user@example.com,,india
+CUST1244,Anjali Gupta,M,47,Delhi,2022-02-04,2023-03-26,23787.83,4.0,user@example.com,8302521621.0,india
+CUST1345,Arjun Singh,FEMALE,30 years,Mumbai,2021-09-27,2021-09-23,,3.0,user@example.com,,InDia
+CUST1122,Arjun Singh,F,,mumbai,2020-06-16,2023-08-22,30327.47,3.0,user@example.com,,India
+CUST1197,Arjun Singh,FEMALE,,Kolkata,2021-03-26,2024-12-30,26422.44,2.0,test@domain.com,9012180879.0,InDia
+CUST1938,Arjun Singh,,30 years,Kolkata,2020-06-03,2023-05-09,,1.0,user@example.com,,india
+CUST1041,Anjali Gupta,FEMALE,,Delhi,2022-01-10,2024-02-29,,2.0,invalid_email,,India
+CUST1024,Neha Verma,M,,Mumbai,2023-06-12,2022-11-10,1242.93,2.0,user@example.com,,InDia
+CUST1813,Rahul Sharma,MALE,30 years,delhi,2023-11-01,2022-01-14,35613.81,4.0,user@example.com,,InDia
+CUST1641,Neha Verma,,,Mumbai,2022-02-19,2023-06-23,10035.3,1.0,test@domain.com,6870990678.0,india
+CUST1608,Rohit Mehta,,,Mumbai,2023-04-08,2023-12-14,25066.06,5.0,test@domain.com,,india
+CUST1720,Rohit Mehta,m,30 years,hyderabad,2020-12-18,2023-02-05,,,invalid_email,9399194920.0,india
+CUST1696,Vikas Yadav,,,delhi,2021-05-04,2021-03-25,,4.0,invalid_email,,InDia
+CUST1619,Kavya Nair,MALE,30 years,hyderabad,2022-02-19,2021-12-03,,3.0,invalid_email,9627926266.0,India
+CUST1037,Neha Verma,MALE,37,delhi,2023-11-26,2024-06-08,,2.0,test@domain.com,,InDia
+CUST1955,Rahul Sharma,M,,Delhi,2021-10-04,2021-07-28,,3.0,test@domain.com,,India
+CUST1100,Priya Singh,MALE,,mumbai,2024-02-02,2021-12-02,18973.37,5.0,invalid_email,8894327312.0,india
+CUST1361,Rohit Mehta,MALE,,Hyderabad,2022-05-15,2021-05-01,,2.0,test@domain.com,,InDia
+CUST1226,Simran Kaur,m,29,Kolkata,2020-09-17,2022-10-26,32664.49,,user@example.com,6925898200.0,India
+CUST1900,Vikas Yadav,M,,CHENNAI,2021-12-28,2022-06-02,,2.0,user@example.com,,india
+CUST1288,Neha Verma,FEMALE,,Kolkata,2023-02-19,2025-01-05,48875.38,1.0,test@domain.com,,India
+CUST1417,Priya Singh,M,30 years,,2020-09-06,2022-09-11,25642.68,3.0,user@example.com,6522694238.0,india
+CUST1256,Simran Kaur,FEMALE,30 years,,2020-02-13,2023-01-02,24050.31,5.0,user@example.com,6301964989.0,India
+CUST1034,Kavya Nair,,24,CHENNAI,2020-04-05,2024-06-21,34203.09,1.0,test@domain.com,,InDia
+CUST1721,Arjun Singh,,30 years,Kolkata,2023-11-02,2022-08-06,,3.0,test@domain.com,6318467091.0,india
+CUST1892,Vikas Yadav,F,,Kolkata,2022-01-23,2024-03-19,,,invalid_email,,India
+CUST1384,Rohit Mehta,FEMALE,26,Chennai,2020-04-27,2022-04-24,49733.03,1.0,user@example.com,,InDia
+CUST1647,Amit Kumar,m,,Hyderabad,2022-03-17,2024-07-26,,5.0,invalid_email,,InDia
+CUST1764,Anjali Gupta,f,,Mumbai,2020-04-06,2024-06-18,,3.0,invalid_email,,india
+CUST1427,Rohit Mehta,F,33,hyderabad,2021-07-02,2022-08-28,,1.0,test@domain.com,7959832312.0,India
+CUST1062,Kavya Nair,m,40,delhi,2021-05-29,2023-10-04,,2.0,invalid_email,,india
+CUST1728,Kavya Nair,f,57,hyderabad,2022-04-02,2021-04-03,,3.0,user@example.com,8947828726.0,india
+CUST1879,Amit Kumar,m,30 years,hyderabad,2020-01-18,2021-10-12,6024.71,2.0,user@example.com,,InDia
+CUST1298,Neha Verma,M,28,CHENNAI,2020-04-22,2023-04-26,24938.99,3.0,user@example.com,8051452065.0,India
+CUST1935,Rahul Sharma,MALE,,Chennai,2023-02-09,2024-01-22,,,invalid_email,7255679668.0,InDia
+CUST1606,Rahul Sharma,m,30 years,CHENNAI,2023-12-20,2023-12-27,,,test@domain.com,8663942261.0,InDia
+CUST1995,Amit Kumar,m,21,Mumbai,2021-04-13,2022-10-06,6997.95,1.0,test@domain.com,,India
+CUST1349,Rahul Sharma,F,30 years,Delhi,2020-05-08,2021-03-08,32180.08,,user@example.com,,India
+CUST1141,Rahul Sharma,F,30 years,Mumbai,2023-09-21,2023-01-29,,3.0,user@example.com,7208630410.0,India
+CUST1711,Rohit Mehta,,,Mumbai,2022-06-06,2023-03-29,,4.0,test@domain.com,,InDia
+CUST1783,Neha Verma,F,50,hyderabad,2020-12-14,2025-01-31,16998.86,3.0,invalid_email,,India
+CUST1037,Neha Verma,F,30 years,hyderabad,2021-05-03,2021-08-22,27512.51,,invalid_email,,India
+CUST1826,Simran Kaur,MALE,,Kolkata,2021-04-23,2023-05-17,,1.0,user@example.com,,InDia
+CUST1063,Anjali Gupta,F,35,hyderabad,2022-09-28,2023-11-03,,,invalid_email,,India
+CUST1245,Rahul Sharma,F,,mumbai,2021-02-20,2023-04-07,,5.0,invalid_email,6741496645.0,InDia
+CUST1493,Rohit Mehta,M,59,hyderabad,2023-02-10,2024-11-02,,1.0,user@example.com,,india
+CUST1630,Anjali Gupta,f,30 years,Kolkata,2023-07-07,2021-01-01,4247.09,,user@example.com,,india
+CUST1882,Simran Kaur,F,43,CHENNAI,2023-02-04,2024-03-28,,3.0,invalid_email,,InDia
+CUST1017,Amit Kumar,F,,Delhi,2021-09-23,2023-05-11,,4.0,test@domain.com,9805985466.0,InDia
+CUST1750,Simran Kaur,m,56,mumbai,2020-10-25,2024-02-07,7086.44,3.0,user@example.com,,InDia
+CUST1908,Anjali Gupta,F,,CHENNAI,2024-02-09,2023-04-17,8082.53,1.0,invalid_email,,InDia
+CUST1111,Rohit Mehta,FEMALE,30 years,mumbai,2020-04-24,2022-06-30,,3.0,user@example.com,8130991187.0,India
+CUST1685,Rohit Mehta,m,46,Hyderabad,2021-04-18,2022-11-25,11407.41,,invalid_email,9772942981.0,india
+CUST1296,Arjun Singh,MALE,30 years,,2020-07-28,2023-04-26,,2.0,user@example.com,,India
+CUST1162,Priya Singh,MALE,30 years,,2021-07-16,2023-05-21,,5.0,invalid_email,7589197950.0,India
+CUST1763,Rohit Mehta,M,30 years,Delhi,2022-02-02,2022-07-18,45916.94,,test@domain.com,,india
+CUST1508,Amit Kumar,MALE,30 years,Delhi,2020-07-09,2024-02-12,23900.96,3.0,test@domain.com,9894409874.0,india
+CUST1286,Priya Singh,MALE,,Chennai,2022-01-16,2023-04-18,,3.0,user@example.com,,india
+CUST1232,Anjali Gupta,F,31,Hyderabad,2023-08-26,2021-02-05,12211.83,2.0,test@domain.com,8649517622.0,InDia
+CUST1083,Amit Kumar,F,,Kolkata,2020-06-17,2021-11-02,,3.0,test@domain.com,7536478567.0,India
+CUST1723,Arjun Singh,MALE,47,Hyderabad,2023-02-06,2021-02-10,,5.0,user@example.com,8713802375.0,India
+CUST1278,Kavya Nair,,30 years,CHENNAI,2021-03-15,2023-07-09,7371.96,5.0,invalid_email,8784944692.0,india
+CUST1760,Anjali Gupta,,30 years,CHENNAI,2022-10-28,2022-03-27,,,test@domain.com,8096529705.0,india
+CUST1714,Rahul Sharma,FEMALE,,Hyderabad,2023-02-03,2021-12-06,4800.4,2.0,user@example.com,9878837655.0,india
+CUST1989,Simran Kaur,F,,CHENNAI,2021-01-07,2024-10-16,,4.0,user@example.com,,India
+CUST1236,Amit Kumar,FEMALE,,Hyderabad,2023-12-02,2024-08-03,,2.0,test@domain.com,9087846247.0,India
+CUST1403,Neha Verma,,,mumbai,2022-07-06,2023-09-01,,1.0,test@domain.com,9037085072.0,InDia
+CUST1867,Arjun Singh,FEMALE,57,Mumbai,2022-07-12,2021-10-13,,3.0,test@domain.com,8003146555.0,india
+CUST1598,Anjali Gupta,m,,Hyderabad,2021-11-12,2024-07-21,,4.0,user@example.com,6201053438.0,india
+CUST1616,Arjun Singh,m,,hyderabad,2021-09-08,2021-02-06,,2.0,test@domain.com,,India
+CUST1482,Rohit Mehta,M,,Chennai,2020-11-02,2025-02-03,21598.06,,user@example.com,7235700136.0,India
+CUST1324,Vikas Yadav,MALE,30 years,Hyderabad,2022-07-19,2023-12-19,8174.03,5.0,test@domain.com,9362199491.0,india
+CUST1881,Arjun Singh,F,,,2020-12-30,2022-08-21,37062.6,5.0,user@example.com,9172261149.0,India
+CUST1303,Anjali Gupta,F,59,hyderabad,2022-06-17,2023-08-25,21472.35,2.0,user@example.com,6018153941.0,india
+CUST1135,Priya Singh,f,,CHENNAI,2020-12-14,2023-03-16,,,invalid_email,,india
+CUST1491,Simran Kaur,F,33,,2021-05-25,2022-03-24,2461.88,4.0,user@example.com,9973672331.0,india
+CUST1542,Amit Kumar,,30 years,mumbai,2024-01-19,2022-04-28,40675.49,2.0,invalid_email,9538013554.0,India
+CUST1809,Arjun Singh,f,23,CHENNAI,2023-01-29,2021-10-31,36863.62,3.0,test@domain.com,9593870695.0,InDia
+CUST1042,Anjali Gupta,F,30 years,CHENNAI,2022-07-02,2022-03-10,33466.45,1.0,test@domain.com,,InDia
+CUST1522,Kavya Nair,F,30 years,Chennai,2022-09-14,2024-10-11,44277.44,5.0,user@example.com,,India
+CUST1832,Simran Kaur,f,43,hyderabad,2022-03-15,2024-11-21,6066.6,1.0,invalid_email,6258721029.0,india
+CUST1483,Anjali Gupta,FEMALE,,hyderabad,2022-05-03,2024-11-04,7407.47,4.0,user@example.com,,India
+CUST1900,Amit Kumar,m,,Chennai,2022-11-06,2021-02-21,1614.3,5.0,user@example.com,8312732711.0,india
+CUST1803,Rohit Mehta,F,,Delhi,2020-07-02,2024-10-20,8612.84,4.0,user@example.com,,InDia
+CUST1060,Arjun Singh,m,35,Delhi,2022-01-30,2024-09-08,12642.38,2.0,invalid_email,,InDia
+CUST1163,Rohit Mehta,m,54,Hyderabad,2022-08-16,2023-10-01,,5.0,user@example.com,7262940865.0,InDia
+CUST1645,Anjali Gupta,M,,,2022-07-06,2024-08-23,,5.0,test@domain.com,6933279122.0,InDia
+CUST1885,Anjali Gupta,f,22,hyderabad,2022-03-16,2021-01-27,,5.0,test@domain.com,,India
+CUST1648,Simran Kaur,F,,CHENNAI,2022-11-08,2025-01-01,,5.0,user@example.com,,India
+CUST1494,Amit Kumar,m,46,mumbai,2023-01-07,2021-04-22,,2.0,invalid_email,,India
+CUST1224,Simran Kaur,M,,CHENNAI,2023-04-23,2021-05-20,8025.44,,user@example.com,8270694384.0,India
+CUST1760,Rahul Sharma,M,,Delhi,2023-07-18,2024-10-18,,3.0,user@example.com,,India
+CUST1355,Simran Kaur,,30 years,Chennai,2023-11-01,2024-12-30,40017.59,,test@domain.com,,india
+CUST1525,Anjali Gupta,MALE,30 years,hyderabad,2021-08-27,2023-06-05,6101.9,2.0,user@example.com,6888392971.0,india
+CUST1306,Kavya Nair,F,,Hyderabad,2021-01-26,2025-01-17,,,invalid_email,8238521617.0,India
+CUST1815,Anjali Gupta,F,30 years,mumbai,2021-06-11,2022-05-26,37588.86,1.0,invalid_email,7983159735.0,India
+CUST1564,Anjali Gupta,,33,Chennai,2022-09-08,2023-03-02,6450.53,2.0,user@example.com,6761804714.0,InDia
+CUST1000,Rahul Sharma,f,,CHENNAI,2022-02-23,2022-01-10,,4.0,user@example.com,9595591892.0,India
+CUST1017,Anjali Gupta,f,33,delhi,2023-06-25,2021-03-14,40833.0,1.0,invalid_email,7245666605.0,India
+CUST1259,Priya Singh,m,,,2021-04-06,2023-04-08,,,user@example.com,8777282630.0,InDia
+CUST1218,Arjun Singh,f,51,Mumbai,2023-07-24,2021-11-27,20291.35,4.0,test@domain.com,6469262645.0,india
+CUST1799,Anjali Gupta,FEMALE,30 years,delhi,2023-04-22,2021-06-03,,,test@domain.com,,InDia
+CUST1135,Rohit Mehta,f,30 years,delhi,2021-10-29,2021-04-21,12670.62,,user@example.com,6637864797.0,InDia
+CUST1699,Rahul Sharma,,21,mumbai,2021-07-14,2024-03-08,18232.17,4.0,user@example.com,8096877206.0,InDia
+CUST1191,Rahul Sharma,M,35,Hyderabad,2020-03-18,2024-06-30,16701.89,1.0,user@example.com,,india
+CUST1482,Anjali Gupta,M,53,mumbai,2022-10-28,2021-12-29,38774.39,3.0,test@domain.com,,India
+CUST1827,Amit Kumar,f,30 years,Kolkata,2023-07-11,2022-07-29,46080.97,4.0,invalid_email,8316651951.0,InDia
+CUST1049,Rahul Sharma,f,56,mumbai,2020-01-28,2024-07-27,43234.58,4.0,invalid_email,,India
+CUST1584,Rohit Mehta,MALE,30 years,Mumbai,2024-01-20,2022-11-26,,1.0,user@example.com,8763120228.0,India
+CUST1962,Rohit Mehta,FEMALE,,,2023-09-05,2024-08-25,,5.0,test@domain.com,8559396767.0,india
+CUST1748,Amit Kumar,MALE,30 years,CHENNAI,2023-08-27,2022-06-25,,2.0,user@example.com,9763280502.0,InDia
+CUST1331,Simran Kaur,F,,mumbai,2021-07-06,2024-09-21,,4.0,user@example.com,,india
+CUST1201,Kavya Nair,FEMALE,30 years,Chennai,2021-12-03,2023-11-30,27424.31,1.0,user@example.com,8032879999.0,InDia
+CUST1984,Rahul Sharma,FEMALE,,,2021-11-19,2023-11-04,,1.0,user@example.com,8379803951.0,India
+CUST1654,Simran Kaur,F,30 years,Kolkata,2020-07-16,2023-02-09,,1.0,test@domain.com,9241104785.0,India
+CUST1703,Vikas Yadav,F,49,Delhi,2022-09-04,2021-04-28,,1.0,test@domain.com,,india
+CUST1559,Vikas Yadav,MALE,30 years,Delhi,2022-06-16,2024-10-16,19103.91,3.0,invalid_email,,India
+CUST1107,Anjali Gupta,F,49,hyderabad,2021-06-01,2024-07-16,,,user@example.com,,InDia
+CUST1904,Neha Verma,FEMALE,30 years,CHENNAI,2021-09-04,2022-10-04,,1.0,user@example.com,,india
+CUST1484,Kavya Nair,m,,mumbai,2021-11-23,2024-12-02,32407.61,2.0,invalid_email,9225862173.0,India
+CUST1695,Neha Verma,FEMALE,30 years,Delhi,2022-06-16,2023-04-01,,1.0,invalid_email,6422242036.0,India
+CUST1140,Anjali Gupta,FEMALE,58,Kolkata,2020-03-29,2021-12-12,25691.79,4.0,invalid_email,,India
+CUST1770,Amit Kumar,F,,Chennai,2021-05-28,2022-02-06,9004.03,3.0,user@example.com,6422388539.0,india
+CUST1355,Rahul Sharma,M,,mumbai,2020-10-27,2023-10-31,45291.24,,invalid_email,9535494420.0,india
+CUST1485,Arjun Singh,M,,Kolkata,2023-12-29,2024-09-14,,4.0,invalid_email,8799523710.0,InDia
+CUST1147,Simran Kaur,M,,Delhi,2020-01-22,2022-03-06,39738.21,1.0,user@example.com,,InDia
+CUST1721,Anjali Gupta,M,,mumbai,2024-01-18,2021-01-13,21135.26,1.0,invalid_email,7290469476.0,india
+CUST1179,Rohit Mehta,m,27,Delhi,2021-06-02,2024-05-27,,4.0,user@example.com,,india
+CUST1558,Neha Verma,m,,mumbai,2021-08-07,2022-04-05,,1.0,invalid_email,7429808595.0,InDia
+CUST1496,Rohit Mehta,MALE,30 years,Mumbai,2020-08-08,2024-01-23,,1.0,user@example.com,9882328101.0,InDia
+CUST1550,Arjun Singh,MALE,34,Kolkata,2023-05-13,2024-12-14,47336.65,5.0,invalid_email,8289080597.0,India
+CUST1870,Anjali Gupta,m,,Delhi,2022-05-26,2024-10-17,34536.25,3.0,invalid_email,,InDia
+CUST1928,Priya Singh,F,60,Delhi,2021-07-18,2024-12-19,5734.86,4.0,test@domain.com,,india
+CUST1145,Kavya Nair,m,59,,2021-05-10,2021-05-22,19340.26,,test@domain.com,,InDia
+CUST1652,Arjun Singh,MALE,21,CHENNAI,2021-09-07,2021-07-27,30287.84,5.0,invalid_email,,india
+CUST1568,Rohit Mehta,FEMALE,,mumbai,2022-05-29,2023-09-13,,5.0,user@example.com,8140903076.0,India
+CUST1432,Simran Kaur,M,30 years,delhi,2020-05-04,2022-03-01,36646.05,,user@example.com,,InDia
+CUST1559,Amit Kumar,f,39,Mumbai,2021-04-14,2023-02-03,,4.0,user@example.com,6089108113.0,InDia
+CUST1732,Rahul Sharma,F,30 years,delhi,2024-02-04,2021-04-06,,3.0,test@domain.com,,India
+CUST1346,Anjali Gupta,FEMALE,40,Kolkata,2021-12-20,2024-01-04,,5.0,invalid_email,,InDia
+CUST1864,Amit Kumar,,30 years,mumbai,2021-09-13,2021-01-29,,,user@example.com,,India
+CUST1374,Anjali Gupta,f,,CHENNAI,2021-06-03,2024-06-26,18733.15,4.0,test@domain.com,,India
+CUST1659,Rohit Mehta,M,28,Kolkata,2022-09-29,2022-02-22,,3.0,invalid_email,8536199025.0,InDia
+CUST1585,Priya Singh,f,30 years,delhi,2021-01-22,2021-03-21,46893.83,,user@example.com,9265734963.0,InDia
+CUST1284,Simran Kaur,M,24,Hyderabad,2020-12-07,2023-10-20,,1.0,user@example.com,,india
+CUST1323,Neha Verma,m,31,Chennai,2023-02-17,2023-02-09,,2.0,test@domain.com,,india
+CUST1545,Amit Kumar,FEMALE,38,Delhi,2021-11-11,2022-11-12,12056.84,4.0,user@example.com,,InDia
+CUST1910,Rahul Sharma,M,19,mumbai,2023-04-02,2022-08-17,1432.7,4.0,invalid_email,9126235527.0,India
+CUST1068,Rohit Mehta,FEMALE,36,CHENNAI,2024-01-16,2023-12-16,20228.05,3.0,user@example.com,7682589567.0,India
+CUST1305,Priya Singh,FEMALE,,mumbai,2020-09-15,2024-11-15,,4.0,test@domain.com,,InDia
+CUST1739,Anjali Gupta,FEMALE,24,Delhi,2020-05-17,2023-04-05,48563.55,2.0,invalid_email,,India
+CUST1839,Arjun Singh,F,38,delhi,2020-03-14,2023-10-27,,4.0,user@example.com,7288625807.0,InDia
+CUST1394,Priya Singh,FEMALE,32,Hyderabad,2020-05-15,2022-08-28,36559.04,4.0,invalid_email,6380934706.0,india
+CUST1950,Anjali Gupta,,,Kolkata,2021-12-20,2022-07-04,,5.0,test@domain.com,,InDia
+CUST1598,Neha Verma,F,25,hyderabad,2022-10-28,2021-09-15,16197.45,3.0,user@example.com,,India
+CUST1714,Neha Verma,M,,,2020-10-15,2024-04-07,24294.35,4.0,invalid_email,7245324529.0,InDia
+CUST1398,Anjali Gupta,M,,hyderabad,2021-08-15,2025-01-23,4800.02,2.0,test@domain.com,,InDia
+CUST1046,Vikas Yadav,,52,CHENNAI,2022-06-23,2022-01-26,44082.96,4.0,test@domain.com,6903712199.0,InDia
+CUST1518,Arjun Singh,m,38,CHENNAI,2021-03-04,2021-01-03,,4.0,user@example.com,7410210533.0,India
+CUST1262,Amit Kumar,FEMALE,,,2023-09-27,2022-08-19,18982.2,3.0,test@domain.com,9784146759.0,india
+CUST1274,Simran Kaur,m,30 years,Delhi,2023-11-03,2023-03-02,1250.0,4.0,user@example.com,6171443646.0,India
+CUST1253,Neha Verma,m,,Chennai,2021-12-14,2022-03-01,43444.91,2.0,user@example.com,8925033794.0,india
+CUST1357,Arjun Singh,MALE,37,CHENNAI,2023-04-12,2023-07-19,10908.42,1.0,user@example.com,6812820441.0,InDia
+CUST1725,Priya Singh,MALE,,Chennai,2022-09-30,2022-02-10,,1.0,user@example.com,9437298480.0,India
+CUST1445,Simran Kaur,MALE,53,,2022-03-22,2024-03-21,,5.0,invalid_email,9840005866.0,India
+CUST1338,Priya Singh,F,30 years,delhi,2022-05-26,2022-09-19,,2.0,user@example.com,7122094586.0,InDia
+CUST1789,Arjun Singh,MALE,30 years,Delhi,2020-08-29,2023-06-15,44316.49,3.0,user@example.com,,InDia
+CUST1544,Rahul Sharma,f,41,Delhi,2020-02-04,2023-12-30,35564.04,3.0,invalid_email,6452736999.0,india
+CUST1235,Rohit Mehta,f,50,Mumbai,2021-12-24,2024-02-25,7701.31,1.0,test@domain.com,6038831281.0,InDia
+CUST1452,Vikas Yadav,M,,mumbai,2023-01-22,2024-05-12,,5.0,test@domain.com,,India
+CUST1523,Amit Kumar,FEMALE,,,2021-06-18,2023-02-08,30375.71,5.0,invalid_email,7671408420.0,india
+CUST1946,Amit Kumar,MALE,,mumbai,2020-03-15,2021-04-11,,3.0,invalid_email,9983834485.0,InDia
+CUST1826,Amit Kumar,m,49,Mumbai,2024-02-02,2022-04-08,,4.0,test@domain.com,,india
+CUST1322,Kavya Nair,m,49,Hyderabad,2023-07-20,2023-12-30,,3.0,invalid_email,9519635965.0,india
+CUST1555,Amit Kumar,M,,delhi,2023-02-12,2022-01-12,,5.0,user@example.com,6565576771.0,india
+CUST1934,Simran Kaur,MALE,,hyderabad,2020-08-22,2024-12-10,38968.66,1.0,test@domain.com,,InDia
+CUST1003,Arjun Singh,f,30 years,mumbai,2020-01-11,2024-11-06,,4.0,invalid_email,,India
+CUST1988,Vikas Yadav,FEMALE,,delhi,2022-02-28,2021-10-02,31147.4,3.0,user@example.com,,InDia
+CUST1756,Priya Singh,,,CHENNAI,2022-03-05,2024-03-07,34846.32,5.0,invalid_email,,india
+CUST1601,Neha Verma,F,,Mumbai,2022-11-06,2025-01-07,30959.61,2.0,test@domain.com,7088461875.0,India
+CUST1824,Simran Kaur,M,26,Hyderabad,2022-11-11,2021-01-13,18752.19,2.0,user@example.com,6529900893.0,india
+CUST1796,Anjali Gupta,,,Chennai,2020-03-18,2021-03-18,6575.93,5.0,invalid_email,,India
+CUST1343,Neha Verma,MALE,55,Delhi,2021-11-03,2021-12-12,,4.0,test@domain.com,,InDia
+CUST1857,Amit Kumar,,43,Mumbai,2022-08-18,2023-09-01,,5.0,invalid_email,7896293356.0,InDia
+CUST1131,Priya Singh,M,39,hyderabad,2021-01-14,2021-01-26,42101.96,4.0,test@domain.com,6165708746.0,india
+CUST1215,Anjali Gupta,F,59,delhi,2022-08-06,2022-09-15,,1.0,test@domain.com,8032755135.0,India
+CUST1514,Rohit Mehta,FEMALE,21,CHENNAI,2020-05-07,2025-01-22,38936.38,1.0,user@example.com,8175750496.0,India
+CUST1967,Vikas Yadav,m,50,mumbai,2022-04-29,2022-12-13,46665.04,,user@example.com,7362223904.0,india
+CUST1817,Vikas Yadav,m,30 years,CHENNAI,2020-04-08,2024-09-30,,5.0,user@example.com,,India
+CUST1651,Anjali Gupta,MALE,30 years,Mumbai,2023-07-29,2022-04-23,34371.41,,user@example.com,,InDia
+CUST1171,Anjali Gupta,M,36,hyderabad,2022-06-23,2023-10-12,17674.24,1.0,test@domain.com,,India
+CUST1323,Simran Kaur,,43,Kolkata,2024-01-22,2021-07-11,,5.0,invalid_email,9157060371.0,india
+CUST1591,Anjali Gupta,M,28,CHENNAI,2021-11-05,2024-11-10,7888.01,3.0,invalid_email,,india
+CUST1940,Arjun Singh,FEMALE,30 years,Kolkata,2020-11-19,2023-12-24,13604.86,,user@example.com,6682272153.0,india
+CUST1349,Priya Singh,M,22,Mumbai,2023-02-20,2023-02-27,10439.48,5.0,user@example.com,7290557841.0,InDia
+CUST1644,Rohit Mehta,m,51,Mumbai,2020-06-24,2021-02-25,,1.0,test@domain.com,,india
+CUST1481,Vikas Yadav,m,30 years,Hyderabad,2020-04-02,2021-02-14,9693.65,3.0,user@example.com,,India
+CUST1707,Priya Singh,,18,CHENNAI,2024-01-27,2021-03-13,20354.37,1.0,test@domain.com,,InDia
+CUST1898,Rohit Mehta,F,53,Hyderabad,2022-07-03,2023-10-26,,2.0,invalid_email,6484808751.0,india
+CUST1545,Rahul Sharma,MALE,,,2022-01-22,2023-08-29,41699.12,5.0,user@example.com,7524721658.0,india
+CUST1707,Anjali Gupta,F,30,hyderabad,2020-01-28,2024-08-17,,2.0,test@domain.com,6736492577.0,india
+CUST1121,Amit Kumar,M,,CHENNAI,2023-12-15,2021-10-27,,,invalid_email,,InDia
+CUST1389,Simran Kaur,F,30 years,Kolkata,2022-01-25,2023-11-29,,1.0,invalid_email,9698774105.0,InDia
+CUST1577,Priya Singh,f,,delhi,2023-01-06,2023-07-24,,4.0,invalid_email,,india
+CUST1987,Neha Verma,F,,Hyderabad,2020-03-01,2024-08-23,,2.0,test@domain.com,,India
+CUST1038,Kavya Nair,F,30 years,Hyderabad,2023-05-24,2023-06-26,,2.0,user@example.com,,InDia
+CUST1536,Anjali Gupta,,30 years,hyderabad,2022-10-12,2021-03-01,,2.0,test@domain.com,8648208512.0,InDia
+CUST1856,Kavya Nair,F,30 years,CHENNAI,2021-06-07,2021-12-05,32513.24,3.0,user@example.com,9925570525.0,india
+CUST1238,Vikas Yadav,F,47,Mumbai,2023-05-24,2021-09-06,34028.95,,test@domain.com,9350139774.0,InDia
+CUST1692,Rohit Mehta,m,30 years,,2023-11-25,2025-02-09,,1.0,test@domain.com,8009082442.0,InDia
+CUST1250,Simran Kaur,M,,Delhi,2022-07-05,2021-05-27,21660.96,2.0,user@example.com,9213339330.0,india
+CUST1649,Vikas Yadav,MALE,46,Mumbai,2022-06-28,2023-03-19,,1.0,test@domain.com,,India
+CUST1959,Neha Verma,F,30 years,Mumbai,2023-06-14,2023-02-27,40107.5,1.0,test@domain.com,6421544464.0,india
+CUST1764,Simran Kaur,MALE,22,Delhi,2023-05-03,2024-08-07,,,user@example.com,,InDia
+CUST1695,Priya Singh,FEMALE,30 years,Delhi,2022-05-21,2021-06-02,,3.0,user@example.com,7989826937.0,InDia
+CUST1468,Simran Kaur,f,30 years,Hyderabad,2021-06-10,2023-03-25,48279.55,4.0,invalid_email,8896274999.0,india
+CUST1353,Priya Singh,,,Kolkata,2020-10-24,2024-04-14,,5.0,user@example.com,,InDia
+CUST1004,Rohit Mehta,F,30 years,delhi,2021-02-15,2023-08-24,,3.0,user@example.com,,india
+CUST1470,Amit Kumar,F,,CHENNAI,2020-12-12,2021-04-28,34066.09,3.0,test@domain.com,,InDia
+CUST1508,Amit Kumar,FEMALE,58,,2023-05-28,2023-04-24,46894.24,1.0,user@example.com,7083702817.0,india
+CUST1161,Rohit Mehta,MALE,41,,2021-01-27,2023-01-23,39663.92,3.0,test@domain.com,,India
+CUST1950,Kavya Nair,FEMALE,44,mumbai,2020-08-20,2023-03-04,,3.0,user@example.com,,India
+CUST1027,Rahul Sharma,m,30 years,Kolkata,2023-05-28,2025-01-24,,4.0,test@domain.com,8285950734.0,india
+CUST1328,Anjali Gupta,FEMALE,52,Chennai,2022-09-07,2022-02-13,,3.0,user@example.com,9225468187.0,india
+CUST1924,Anjali Gupta,F,30 years,,2023-08-02,2024-02-11,,1.0,test@domain.com,6136526224.0,india
+CUST1641,Priya Singh,,,CHENNAI,2023-02-18,2023-08-16,,5.0,test@domain.com,,India
+CUST1205,Priya Singh,FEMALE,,Mumbai,2023-10-13,2021-01-31,,3.0,invalid_email,6131255593.0,India
+CUST1855,Arjun Singh,f,,Chennai,2020-01-20,2022-07-18,,1.0,user@example.com,8220236198.0,India
+CUST1284,Arjun Singh,F,30 years,hyderabad,2023-09-25,2021-06-27,,1.0,test@domain.com,,InDia
+CUST1873,Amit Kumar,,30 years,Chennai,2023-11-22,2021-01-06,,,test@domain.com,,India
+CUST1961,Kavya Nair,M,24,,2021-01-21,2022-12-26,31419.28,1.0,test@domain.com,8868585404.0,InDia
+CUST1026,Amit Kumar,F,,Chennai,2022-03-07,2022-05-19,32945.21,,invalid_email,6956424868.0,India
+CUST1586,Amit Kumar,FEMALE,30 years,Hyderabad,2020-03-28,2024-07-19,43623.99,5.0,invalid_email,,InDia
+CUST1831,Rohit Mehta,MALE,36,Kolkata,2020-07-17,2023-12-02,,,user@example.com,7762462543.0,india
+CUST1503,Priya Singh,M,30 years,,2020-08-02,2021-07-25,,2.0,user@example.com,,InDia
+CUST1119,Anjali Gupta,F,,Delhi,2020-02-13,2023-05-02,46373.73,4.0,test@domain.com,8227364117.0,india
+CUST1298,Priya Singh,,55,delhi,2020-05-17,2021-06-16,,1.0,test@domain.com,8398744986.0,InDia
+CUST1584,Priya Singh,FEMALE,20,,2020-02-08,2024-05-05,,4.0,invalid_email,9863142175.0,InDia
+CUST1965,Vikas Yadav,m,,,2022-06-23,2022-08-21,,2.0,invalid_email,7434439098.0,India
+CUST1089,Amit Kumar,m,50,,2022-03-03,2024-01-27,31292.57,,invalid_email,,India
+CUST1119,Arjun Singh,m,42,Mumbai,2024-02-06,2021-02-04,,,test@domain.com,,india
+CUST1538,Amit Kumar,f,,Chennai,2023-02-07,2023-11-17,,,user@example.com,9263037231.0,India
+CUST1398,Amit Kumar,MALE,24,Chennai,2021-12-26,2021-09-18,,2.0,user@example.com,7099239225.0,India
+CUST1174,Rahul Sharma,F,59,CHENNAI,2021-03-17,2022-06-20,,2.0,test@domain.com,7124036957.0,india
+CUST1877,Amit Kumar,,30 years,Hyderabad,2020-11-19,2021-05-06,,2.0,test@domain.com,,india
+CUST1416,Vikas Yadav,MALE,30 years,CHENNAI,2022-01-13,2021-03-21,46968.53,,invalid_email,,India
+CUST1147,Amit Kumar,F,54,hyderabad,2022-07-22,2021-09-05,4843.62,5.0,user@example.com,,InDia
+CUST1248,Amit Kumar,f,35,delhi,2023-03-08,2022-08-20,,2.0,invalid_email,,india
+CUST1643,Neha Verma,m,,Delhi,2022-09-24,2024-01-07,,2.0,user@example.com,,India
+CUST1502,Vikas Yadav,f,,mumbai,2021-12-30,2022-02-19,,5.0,user@example.com,,india
+CUST1966,Rohit Mehta,FEMALE,42,CHENNAI,2020-06-25,2021-03-12,12796.63,4.0,test@domain.com,8939639158.0,InDia
+CUST1146,Arjun Singh,f,49,Mumbai,2021-10-05,2022-01-11,39499.96,4.0,user@example.com,,india
+CUST1084,Priya Singh,,30 years,mumbai,2022-05-26,2024-06-26,,4.0,invalid_email,9120973142.0,India
+CUST1965,Kavya Nair,f,30 years,,2022-11-23,2024-04-23,,,test@domain.com,9414804009.0,InDia
+CUST1402,Rahul Sharma,M,30 years,delhi,2020-11-16,2024-04-05,,,test@domain.com,,India
+CUST1399,Anjali Gupta,M,47,CHENNAI,2023-01-14,2023-08-09,47787.08,3.0,invalid_email,,india
+CUST1621,Neha Verma,MALE,48,hyderabad,2022-08-28,2021-07-30,,,test@domain.com,,InDia
+CUST1400,Simran Kaur,FEMALE,,Hyderabad,2023-12-13,2022-03-10,,3.0,user@example.com,7870756941.0,India
+CUST1754,Rohit Mehta,MALE,,Kolkata,2023-03-18,2021-03-07,,1.0,test@domain.com,8858715663.0,india
+CUST1363,Rahul Sharma,m,30 years,CHENNAI,2023-04-13,2023-06-03,,,test@domain.com,8552857923.0,InDia
+CUST1036,Neha Verma,M,19,Delhi,2023-05-07,2025-01-07,,2.0,user@example.com,9322337297.0,InDia
+CUST1600,Amit Kumar,FEMALE,,Mumbai,2020-04-04,2021-04-17,40617.45,5.0,invalid_email,,InDia
+CUST1136,Simran Kaur,F,26,hyderabad,2020-06-13,2021-08-09,,,invalid_email,8909698653.0,InDia
+CUST1506,Rohit Mehta,F,,Kolkata,2023-08-21,2022-03-31,,1.0,invalid_email,6332030719.0,InDia
+CUST1474,Neha Verma,m,30 years,Mumbai,2021-04-15,2021-11-25,16868.3,3.0,test@domain.com,,India
+CUST1666,Kavya Nair,MALE,30 years,,2021-08-18,2023-08-06,,2.0,user@example.com,9325229150.0,india
+CUST1955,Amit Kumar,,41,CHENNAI,2021-03-05,2021-04-09,,2.0,invalid_email,,InDia
+CUST1380,Amit Kumar,FEMALE,52,Mumbai,2020-08-25,2024-08-03,,2.0,test@domain.com,,India
+CUST1499,Amit Kumar,F,,delhi,2023-10-25,2021-09-20,,3.0,user@example.com,,india
+CUST1606,Neha Verma,M,,Delhi,2020-08-13,2022-08-24,30810.96,3.0,user@example.com,,InDia
+CUST1705,Arjun Singh,MALE,60,delhi,2020-09-10,2021-12-09,8326.59,1.0,invalid_email,,InDia
+CUST1373,Anjali Gupta,MALE,30 years,Delhi,2020-12-21,2021-02-28,,1.0,test@domain.com,6324865347.0,India
+CUST1721,Rohit Mehta,M,39,Hyderabad,2020-04-08,2022-07-10,16125.72,1.0,invalid_email,,InDia
+CUST1092,Priya Singh,MALE,22,Mumbai,2020-02-01,2021-05-01,,4.0,user@example.com,,InDia
+CUST1941,Priya Singh,M,30 years,hyderabad,2022-11-02,2023-10-17,,1.0,invalid_email,,india
+CUST1259,Kavya Nair,M,41,Hyderabad,2022-11-29,2021-10-21,,1.0,user@example.com,7979871620.0,india
+CUST1054,Rohit Mehta,M,30 years,hyderabad,2023-12-01,2023-11-03,,3.0,user@example.com,,India
+CUST1653,Priya Singh,FEMALE,,Kolkata,2021-12-16,2024-06-03,46143.41,1.0,invalid_email,,InDia
+CUST1005,Rohit Mehta,FEMALE,55,mumbai,2022-10-23,2024-08-09,2372.42,5.0,test@domain.com,8339192197.0,InDia
+CUST1984,Amit Kumar,MALE,,delhi,2021-12-15,2022-10-26,10307.05,1.0,user@example.com,,India
+CUST1592,Anjali Gupta,f,30 years,mumbai,2021-02-04,2021-05-04,23347.28,2.0,user@example.com,8169313166.0,india
+CUST1839,Simran Kaur,m,30 years,Chennai,2020-05-27,2021-11-04,,4.0,invalid_email,,India
+CUST1298,Rohit Mehta,MALE,37,Hyderabad,2023-07-27,2024-09-29,,2.0,user@example.com,,India
+CUST1773,Rohit Mehta,M,30 years,mumbai,2023-03-12,2021-09-09,2735.6,1.0,invalid_email,6953705015.0,InDia
+CUST1818,Vikas Yadav,MALE,21,Kolkata,2020-08-07,2021-02-15,,4.0,user@example.com,9811405502.0,India
+CUST1991,Priya Singh,,30 years,,2023-02-27,2023-11-16,,,invalid_email,6568662776.0,india
+CUST1729,Priya Singh,M,45,CHENNAI,2023-01-14,2024-02-12,,4.0,invalid_email,8100013232.0,India
+CUST1324,Neha Verma,MALE,,,2023-03-06,2023-10-06,11778.77,2.0,user@example.com,7363680236.0,India
+CUST1792,Arjun Singh,m,30 years,Kolkata,2020-12-05,2023-04-24,19866.36,4.0,test@domain.com,8088319155.0,InDia
+CUST1106,Amit Kumar,,,Chennai,2020-07-06,2023-06-02,39304.08,1.0,user@example.com,9529276817.0,india
+CUST1959,Arjun Singh,f,30 years,Mumbai,2021-04-06,2021-12-10,,,user@example.com,6331820019.0,India
+CUST1936,Kavya Nair,f,30 years,Chennai,2022-04-01,2022-03-10,35432.88,5.0,invalid_email,,india
+CUST1315,Rahul Sharma,FEMALE,30 years,Kolkata,2022-07-24,2022-01-19,11807.79,1.0,test@domain.com,7815967287.0,india
+CUST1749,Vikas Yadav,M,28,delhi,2022-03-28,2022-03-08,,1.0,user@example.com,7269306633.0,india
+CUST1510,Neha Verma,f,36,Mumbai,2023-10-25,2023-03-17,,2.0,invalid_email,,InDia
+CUST1272,Amit Kumar,F,37,mumbai,2022-01-23,2021-10-27,,5.0,invalid_email,,InDia
+CUST1354,Anjali Gupta,FEMALE,30 years,Hyderabad,2021-02-01,2024-07-03,,1.0,invalid_email,9372971729.0,InDia
+CUST1451,Rohit Mehta,,30 years,hyderabad,2020-05-07,2022-10-13,13279.9,4.0,invalid_email,,India
+CUST1738,Vikas Yadav,,59,CHENNAI,2022-03-14,2022-10-03,6805.37,4.0,test@domain.com,7549711776.0,india
+CUST1229,Anjali Gupta,FEMALE,19,Delhi,2021-01-17,2022-10-17,44399.4,5.0,test@domain.com,,india
+CUST1366,Vikas Yadav,MALE,18,Kolkata,2020-03-24,2022-03-05,24892.08,1.0,user@example.com,,InDia
+CUST1650,Anjali Gupta,M,48,CHENNAI,2022-03-21,2022-02-13,,5.0,test@domain.com,,india
+CUST1444,Priya Singh,M,,Chennai,2024-01-11,2021-05-16,,,test@domain.com,7517269736.0,India
+CUST1935,Rohit Mehta,MALE,30 years,Delhi,2020-12-07,2023-11-10,,1.0,user@example.com,,InDia
+CUST1025,Arjun Singh,FEMALE,,delhi,2023-06-05,2022-05-23,45948.07,1.0,user@example.com,9436284447.0,india
+CUST1598,Simran Kaur,m,30 years,Mumbai,2020-04-24,2025-01-29,5448.22,1.0,invalid_email,,India
+CUST1369,Anjali Gupta,m,50,mumbai,2021-10-22,2023-09-12,20886.89,1.0,test@domain.com,8183813863.0,india
+CUST1991,Simran Kaur,MALE,52,CHENNAI,2022-11-20,2021-06-19,16314.64,,invalid_email,,India
+CUST1318,Kavya Nair,F,19,hyderabad,2020-04-25,2022-01-11,22056.27,,invalid_email,,India
+CUST1967,Vikas Yadav,F,,Mumbai,2021-06-04,2021-06-19,39586.49,5.0,invalid_email,,india
+CUST1965,Priya Singh,M,30 years,Delhi,2022-03-10,2021-11-08,34325.02,4.0,test@domain.com,,india
+CUST1463,Vikas Yadav,f,,,2020-12-02,2022-02-08,42653.37,4.0,user@example.com,,india
+CUST1921,Rohit Mehta,m,30 years,hyderabad,2023-05-14,2021-10-22,25586.16,4.0,user@example.com,,InDia
+CUST1076,Rahul Sharma,,41,CHENNAI,2021-03-11,2023-09-11,37191.83,2.0,test@domain.com,8204703107.0,india
+CUST1055,Priya Singh,F,30 years,delhi,2022-05-19,2022-01-06,36469.28,,test@domain.com,6474555520.0,india
+CUST1682,Vikas Yadav,FEMALE,30 years,hyderabad,2021-09-24,2022-08-14,39214.8,3.0,invalid_email,,India
+CUST1105,Simran Kaur,f,33,delhi,2023-05-29,2024-12-03,,2.0,invalid_email,,India
+CUST1970,Priya Singh,FEMALE,33,Delhi,2021-07-21,2022-06-21,33584.83,1.0,user@example.com,9759135469.0,India
+CUST1201,Rahul Sharma,M,30 years,,2021-02-09,2023-10-03,,2.0,test@domain.com,7399500469.0,InDia
+CUST1291,Neha Verma,F,,delhi,2023-03-10,2023-01-07,16483.41,3.0,invalid_email,,India
+CUST1614,Simran Kaur,f,26,Chennai,2021-03-26,2024-09-06,9257.94,2.0,test@domain.com,8191476131.0,India
+CUST1555,Rohit Mehta,FEMALE,47,hyderabad,2020-12-02,2023-02-16,18285.61,,user@example.com,,India
+CUST1106,Simran Kaur,MALE,30 years,Kolkata,2020-06-18,2022-12-11,,5.0,invalid_email,6119251160.0,India
+CUST1300,Rahul Sharma,MALE,44,delhi,2023-07-10,2022-09-24,,,test@domain.com,,india
+CUST1454,Anjali Gupta,,30 years,mumbai,2020-02-19,2021-10-16,,2.0,user@example.com,7874817012.0,India
+CUST1599,Anjali Gupta,,19,Chennai,2022-11-18,2024-06-21,14232.11,3.0,user@example.com,7948018515.0,India
+CUST1721,Amit Kumar,FEMALE,,,2023-10-11,2021-07-14,,3.0,test@domain.com,6961994554.0,india
+CUST1821,Rahul Sharma,M,,,2020-10-04,2023-01-08,32547.55,2.0,test@domain.com,9900459933.0,india
+CUST1250,Neha Verma,,,Delhi,2020-08-22,2023-04-05,,5.0,user@example.com,6871069017.0,InDia
+CUST1052,Priya Singh,FEMALE,53,delhi,2023-12-02,2024-02-13,,4.0,test@domain.com,,india
+CUST1768,Rahul Sharma,,30 years,Mumbai,2022-12-29,2021-07-23,,,invalid_email,,InDia
+CUST1473,Neha Verma,,40,,2022-07-15,2021-06-17,5252.07,5.0,invalid_email,8517567168.0,InDia
+CUST1802,Simran Kaur,f,30 years,hyderabad,2021-08-31,2024-05-10,8019.03,2.0,invalid_email,9748192346.0,india
+CUST1565,Neha Verma,FEMALE,29,Chennai,2022-12-08,2022-04-13,48895.28,1.0,test@domain.com,9240163774.0,india
+CUST1016,Kavya Nair,f,27,Chennai,2021-05-14,2024-05-06,,4.0,test@domain.com,8555256541.0,InDia
+CUST1472,Amit Kumar,f,19,CHENNAI,2021-03-24,2022-09-28,5047.01,1.0,test@domain.com,,india
+CUST1384,Amit Kumar,f,,Chennai,2023-12-29,2023-08-23,,,test@domain.com,,India
+CUST1213,Vikas Yadav,m,30 years,hyderabad,2021-11-13,2024-07-07,,1.0,user@example.com,,india
+CUST1166,Priya Singh,,30 years,CHENNAI,2021-04-04,2022-08-21,,5.0,test@domain.com,,india
+CUST1103,Priya Singh,f,,Kolkata,2023-07-23,2024-03-04,,4.0,invalid_email,8740533261.0,india
+CUST1959,Neha Verma,f,38,Kolkata,2021-07-20,2023-03-11,,,test@domain.com,8091986894.0,India
+CUST1785,Simran Kaur,M,,Delhi,2023-05-16,2021-04-30,,,test@domain.com,,india
+CUST1460,Anjali Gupta,M,30 years,mumbai,2021-02-11,2024-03-14,15640.36,3.0,test@domain.com,6236697081.0,InDia
+CUST1176,Anjali Gupta,MALE,30 years,Chennai,2020-07-20,2021-09-02,,1.0,user@example.com,,India
+CUST1396,Neha Verma,,,CHENNAI,2021-05-07,2023-11-27,21364.97,5.0,invalid_email,7734152049.0,india
+CUST1404,Rahul Sharma,,,delhi,2020-12-26,2025-02-02,35151.78,5.0,user@example.com,,india
+CUST1844,Amit Kumar,MALE,30 years,,2020-07-28,2022-03-27,,,user@example.com,,india
+CUST1566,Rohit Mehta,F,,hyderabad,2022-12-09,2022-07-06,,2.0,invalid_email,,InDia
+CUST1599,Kavya Nair,F,30 years,Mumbai,2021-09-27,2022-06-15,16052.87,,user@example.com,9267117168.0,India
+CUST1323,Arjun Singh,F,,Delhi,2021-08-12,2022-05-21,32435.17,5.0,invalid_email,8831004818.0,india
+CUST1772,Simran Kaur,f,44,Hyderabad,2023-10-18,2024-06-30,,,test@domain.com,7069217775.0,India
+CUST1295,Vikas Yadav,,30 years,Chennai,2022-08-13,2023-07-19,,,invalid_email,7443058085.0,india
+CUST1798,Anjali Gupta,F,22,Chennai,2020-04-05,2021-11-04,4561.45,2.0,test@domain.com,6164045302.0,india
+CUST1130,Vikas Yadav,F,,delhi,2023-11-24,2022-05-02,46970.99,2.0,invalid_email,7600856611.0,InDia
+CUST1147,Priya Singh,F,30 years,Delhi,2021-05-31,2022-04-08,,1.0,user@example.com,,india
+CUST1982,Rohit Mehta,,,Chennai,2020-09-05,2022-01-31,2368.83,4.0,test@domain.com,,India
+CUST1750,Kavya Nair,f,30 years,Kolkata,2021-08-21,2021-08-29,49193.71,3.0,user@example.com,7021133207.0,India
+CUST1251,Priya Singh,m,,Kolkata,2022-07-02,2023-09-25,,,invalid_email,,india
+CUST1944,Arjun Singh,M,54,Kolkata,2020-04-16,2021-03-26,,4.0,test@domain.com,8175967304.0,india
+CUST1163,Rohit Mehta,m,,CHENNAI,2022-03-12,2024-03-21,7059.99,4.0,test@domain.com,,InDia
+CUST1468,Simran Kaur,FEMALE,,CHENNAI,2023-09-16,2024-11-18,20378.68,,test@domain.com,6111006632.0,india
+CUST1014,Kavya Nair,FEMALE,30 years,Chennai,2022-01-06,2024-03-28,48263.16,5.0,test@domain.com,6304492764.0,India
+CUST1490,Amit Kumar,m,33,delhi,2020-12-20,2024-12-06,,3.0,invalid_email,7864788445.0,InDia
+CUST1428,Priya Singh,MALE,30 years,Kolkata,2022-11-25,2022-10-04,,,test@domain.com,9079013691.0,india
+CUST1312,Kavya Nair,f,30 years,hyderabad,2021-09-04,2022-12-06,,4.0,test@domain.com,8044185291.0,india
+CUST1650,Rohit Mehta,F,51,Delhi,2020-01-29,2022-03-16,9467.06,4.0,invalid_email,7119624167.0,India
+CUST1909,Neha Verma,f,20,Hyderabad,2023-11-21,2021-05-17,45379.23,3.0,invalid_email,7452058712.0,india
+CUST1063,Amit Kumar,MALE,34,Kolkata,2023-10-12,2023-01-13,,2.0,test@domain.com,,InDia
+CUST1289,Rohit Mehta,MALE,23,Hyderabad,2023-11-24,2022-12-14,17455.3,4.0,test@domain.com,7554165081.0,India
+CUST1350,Arjun Singh,f,30 years,mumbai,2020-02-28,2021-01-22,,,test@domain.com,,InDia
+CUST1061,Anjali Gupta,M,34,CHENNAI,2021-08-24,2024-04-18,27675.65,2.0,invalid_email,9780257135.0,India
+CUST1062,Rohit Mehta,MALE,48,mumbai,2022-04-12,2022-05-11,14081.12,1.0,test@domain.com,,india
+CUST1504,Vikas Yadav,M,30 years,Hyderabad,2021-09-03,2024-02-07,4197.0,3.0,invalid_email,8347102370.0,india
+CUST1412,Priya Singh,M,43,Delhi,2022-11-30,2023-01-04,,4.0,test@domain.com,6900972378.0,India
+CUST1654,Vikas Yadav,f,43,Chennai,2020-04-09,2021-01-12,27747.77,3.0,test@domain.com,,InDia
+CUST1100,Rahul Sharma,M,,Delhi,2022-12-01,2022-06-12,,5.0,test@domain.com,9081161466.0,India
+CUST1690,Vikas Yadav,FEMALE,,Delhi,2023-03-13,2023-07-10,,1.0,test@domain.com,,india
+CUST1843,Rohit Mehta,f,20,Kolkata,2023-06-18,2022-04-14,,4.0,test@domain.com,8187282011.0,India
+CUST1509,Kavya Nair,f,19,Mumbai,2021-06-28,2021-02-17,,3.0,user@example.com,,InDia
+CUST1113,Vikas Yadav,FEMALE,30 years,Chennai,2023-09-15,2023-04-14,7662.29,4.0,test@domain.com,,India
