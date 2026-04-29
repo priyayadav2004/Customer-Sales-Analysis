@@ -70,14 +70,6 @@ The dataset contains customer-related information such as:
 📁 Download Dashboard: Customers-Sales-Dashboard.pbix
 ⚠️ Open using Power BI Desktop
 
----
-
-## 📷 Dashboard Preview
-
-(Add screenshot here)
-
----
-
 ## 🚀 Project Structure
 
 Customer-Sales-Analysis/
